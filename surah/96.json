@@ -1,0 +1,141 @@
+{
+  "name": "Al-Alaq",
+  "name_translations": {
+    "ar": "العلق",
+    "en": "The Clot"
+  },
+  "number_of_ayah": 19,
+  "number_of_surah": 96,
+  "place": "Mecca",
+  "recitations": [
+    {
+      "name": "Mishari Rashid al-`Afasy",
+      "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/096.mp3"
+    },
+    {
+      "name": "Abdur-Rahman as-Sudais",
+      "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/096.mp3"
+    },
+    {
+      "name": "Saad al-Ghamdi",
+      "audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/096.mp3"
+    }
+  ],
+  "type": "Makkiyah",
+  "verses": [
+    {
+      "number": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ",
+      "translation_en": "Recite in the name of your Lord who created -",
+      "translation_bn": "পাঠ করুন আপনার পালনকর্তার নামে যিনি সৃষ্টি করেছেন"
+    },
+    {
+      "number": 2,
+      "text": "خَلَقَ ٱلْإِنسَٰنَ مِنْ عَلَقٍ",
+      "translation_en": "Created man from a clinging substance.",
+      "translation_bn": "সৃষ্টি করেছেন মানুষকে জমাট রক্ত থেকে।"
+    },
+    {
+      "number": 3,
+      "text": "ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ",
+      "translation_en": "Recite, and your Lord is the most Generous -",
+      "translation_bn": "পাঠ করুন, আপনার পালনকর্তা মহা দয়ালু,"
+    },
+    {
+      "number": 4,
+      "text": "ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ",
+      "translation_en": "Who taught by the pen -",
+      "translation_bn": "যিনি কলমের সাহায্যে শিক্ষা দিয়েছেন,"
+    },
+    {
+      "number": 5,
+      "text": "عَلَّمَ ٱلْإِنسَٰنَ مَا لَمْ يَعْلَمْ",
+      "translation_en": "Taught man that which he knew not.",
+      "translation_bn": "শিক্ষা দিয়েছেন মানুষকে যা সে জানত না।"
+    },
+    {
+      "number": 6,
+      "text": "كَلَّآ إِنَّ ٱلْإِنسَٰنَ لَيَطْغَىٰٓ",
+      "translation_en": "No! [But] indeed, man transgresses",
+      "translation_bn": "সত্যি সত্যি মানুষ সীমালংঘন করে,"
+    },
+    {
+      "number": 7,
+      "text": "أَن رَّءَاهُ ٱسْتَغْنَىٰٓ",
+      "translation_en": "Because he sees himself self-sufficient.",
+      "translation_bn": "এ কারণে যে, সে নিজেকে অভাবমুক্ত মনে করে।"
+    },
+    {
+      "number": 8,
+      "text": "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجْعَىٰٓ",
+      "translation_en": "Indeed, to your Lord is the return.",
+      "translation_bn": "নিশ্চয় আপনার পালনকর্তার দিকেই প্রত্যাবর্তন হবে।"
+    },
+    {
+      "number": 9,
+      "text": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+      "translation_en": "Have you seen the one who forbids",
+      "translation_bn": "আপনি কি তাকে দেখেছেন, যে নিষেধ করে"
+    },
+    {
+      "number": 10,
+      "text": "عَبْدًا إِذَا صَلَّىٰٓ",
+      "translation_en": "A servant when he prays?",
+      "translation_bn": "এক বান্দাকে যখন সে নামায পড়ে?"
+    },
+    {
+      "number": 11,
+      "text": "أَرَءَيْتَ إِن كَانَ عَلَى ٱلْهُدَىٰٓ",
+      "translation_en": "Have you seen if he is upon guidance",
+      "translation_bn": "আপনি কি দেখেছেন যদি সে সৎপথে থাকে।"
+    },
+    {
+      "number": 12,
+      "text": "أَوْ أَمَرَ بِٱلتَّقْوَىٰٓ",
+      "translation_en": "Or enjoins righteousness?",
+      "translation_bn": "অথবা খোদাভীতি শিক্ষা দেয়।"
+    },
+    {
+      "number": 13,
+      "text": "أَرَءَيْتَ إِن كَذَّبَ وَتَوَلَّىٰٓ",
+      "translation_en": "Have you seen if he denies and turns away -",
+      "translation_bn": "আপনি কি দেখেছেন, যদি সে মিথ্যারোপ করে ও মুখ ফিরিয়ে নেয়।"
+    },
+    {
+      "number": 14,
+      "text": "أَلَمْ يَعْلَم بِأَنَّ ٱللَّهَ يَرَىٰ",
+      "translation_en": "Does he not know that Allah sees?",
+      "translation_bn": "সে কি জানে না যে, আল্লাহ দেখেন?"
+    },
+    {
+      "number": 15,
+      "text": "كَلَّا لَئِن لَّمْ يَنتَهِ لَنَسْفَعًۢا بِٱلنَّاصِيَةِ",
+      "translation_en": "No! If he does not desist, We will surely drag him by the forelock -",
+      "translation_bn": "কখনই নয়, যদি সে বিরত না হয়, তবে আমি মস্তকের সামনের কেশগুচ্ছ ধরে হেঁচড়াবই-"
+    },
+    {
+      "number": 16,
+      "text": "نَاصِيَةٍ كَٰذِبَةٍ خَاطِئَةٍ",
+      "translation_en": "A lying, sinning forelock.",
+      "translation_bn": "মিথ্যাচারী, পাপীর কেশগুচ্ছ।"
+    },
+    {
+      "number": 17,
+      "text": "فَلْيَدْعُ نَادِيَهُۥ",
+      "translation_en": "Then let him call his associates;",
+      "translation_bn": "অতএব, সে তার সভাসদদেরকে আহবান করুক।"
+    },
+    {
+      "number": 18,
+      "text": "سَنَدْعُ ٱلزَّبَانِيَةَ",
+      "translation_en": "We will call the angels of Hell.",
+      "translation_bn": "আমিও আহবান করব জাহান্নামের প্রহরীদেরকে"
+    },
+    {
+      "number": 19,
+      "text": "كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب",
+      "translation_en": "No! Do not obey him. But prostrate and draw near [to Allah].",
+      "translation_bn": "কখনই নয়, আপনি তার আনুগত্য করবেন না। আপনি সেজদা করুন ও আমার নৈকট্য অর্জন করুন।"
+    }
+  ]
+}

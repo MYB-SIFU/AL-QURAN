@@ -1,0 +1,327 @@
+{
+  "name": "Al-Mursalat",
+  "name_translations": {
+    "ar": "المرسلات",
+    "en": "The Emissaries"
+  },
+  "number_of_ayah": 50,
+  "number_of_surah": 77,
+  "place": "Mecca",
+  "recitations": [
+    {
+      "name": "Mishari Rashid al-`Afasy",
+      "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/077.mp3"
+    },
+    {
+      "name": "Abdur-Rahman as-Sudais",
+      "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/077.mp3"
+    },
+    {
+      "name": "Saad al-Ghamdi",
+      "audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/077.mp3"
+    }
+  ],
+  "type": "Makkiyah",
+  "verses": [
+    {
+      "number": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلْمُرْسَلَٰتِ عُرْفًا",
+      "translation_en": "By those [winds] sent forth in gusts",
+      "translation_bn": "কল্যাণের জন্যে প্রেরিত বায়ুর শপথ,"
+    },
+    {
+      "number": 2,
+      "text": "فَٱلْعَٰصِفَٰتِ عَصْفًا",
+      "translation_en": "And the winds that blow violently",
+      "translation_bn": "সজোরে প্রবাহিত ঝটিকার শপথ,"
+    },
+    {
+      "number": 3,
+      "text": "وَٱلنَّٰشِرَٰتِ نَشْرًا",
+      "translation_en": "And [by] the winds that spread [clouds]",
+      "translation_bn": "মেঘবিস্তৃতকারী বায়ুর শপথ"
+    },
+    {
+      "number": 4,
+      "text": "فَٱلْفَٰرِقَٰتِ فَرْقًا",
+      "translation_en": "And those [angels] who bring criterion",
+      "translation_bn": "মেঘপুঞ্জ বিতরণকারী বায়ুর শপথ এবং"
+    },
+    {
+      "number": 5,
+      "text": "فَٱلْمُلْقِيَٰتِ ذِكْرًا",
+      "translation_en": "And those [angels] who deliver a message",
+      "translation_bn": "ওহী নিয়ে অবতরণকারী ফেরেশতাগণের শপথ-"
+    },
+    {
+      "number": 6,
+      "text": "عُذْرًا أَوْ نُذْرًا",
+      "translation_en": "As justification or warning,",
+      "translation_bn": "ওযর-আপত্তির অবকাশ না রাখার জন্যে অথবা সতর্ক করার জন্যে।"
+    },
+    {
+      "number": 7,
+      "text": "إِنَّمَا تُوعَدُونَ لَوَٰقِعٌ",
+      "translation_en": "Indeed, what you are promised is to occur.",
+      "translation_bn": "নিশ্চয়ই তোমাদেরকে প্রদত্ত ওয়াদা বাস্তবায়িত হবে।"
+    },
+    {
+      "number": 8,
+      "text": "فَإِذَا ٱلنُّجُومُ طُمِسَتْ",
+      "translation_en": "So when the stars are obliterated",
+      "translation_bn": "অতঃপর যখন নক্ষত্রসমুহ নির্বাপিত হবে,"
+    },
+    {
+      "number": 9,
+      "text": "وَإِذَا ٱلسَّمَآءُ فُرِجَتْ",
+      "translation_en": "And when the heaven is opened",
+      "translation_bn": "যখন আকাশ ছিদ্রযুক্ত হবে,"
+    },
+    {
+      "number": 10,
+      "text": "وَإِذَا ٱلْجِبَالُ نُسِفَتْ",
+      "translation_en": "And when the mountains are blown away",
+      "translation_bn": "যখন পর্বতমালাকে উড়িয়ে দেয়া হবে এবং"
+    },
+    {
+      "number": 11,
+      "text": "وَإِذَا ٱلرُّسُلُ أُقِّتَتْ",
+      "translation_en": "And when the messengers' time has come...",
+      "translation_bn": "যখন রসূলগণের একত্রিত হওয়ার সময় নিরূপিত হবে,"
+    },
+    {
+      "number": 12,
+      "text": "لِأَىِّ يَوْمٍ أُجِّلَتْ",
+      "translation_en": "For what Day was it postponed?",
+      "translation_bn": "এসব বিষয় কোন দিবসের জন্যে স্থগিত রাখা হয়েছে?"
+    },
+    {
+      "number": 13,
+      "text": "لِيَوْمِ ٱلْفَصْلِ",
+      "translation_en": "For the Day of Judgement.",
+      "translation_bn": "বিচার দিবসের জন্য।"
+    },
+    {
+      "number": 14,
+      "text": "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلْفَصْلِ",
+      "translation_en": "And what can make you know what is the Day of Judgement?",
+      "translation_bn": "আপনি জানেন বিচার দিবস কি?"
+    },
+    {
+      "number": 15,
+      "text": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translation_en": "Woe, that Day, to the deniers.",
+      "translation_bn": "সেদিন মিথ্যারোপকারীদের দুর্ভোগ হবে।"
+    },
+    {
+      "number": 16,
+      "text": "أَلَمْ نُهْلِكِ ٱلْأَوَّلِينَ",
+      "translation_en": "Did We not destroy the former peoples?",
+      "translation_bn": "আমি কি পূর্ববর্তীদেরকে ধ্বংস করিনি?"
+    },
+    {
+      "number": 17,
+      "text": "ثُمَّ نُتْبِعُهُمُ ٱلْءَاخِرِينَ",
+      "translation_en": "Then We will follow them with the later ones.",
+      "translation_bn": "অতঃপর তাদের পশ্চাতে প্রেরণ করব পরবর্তীদেরকে।"
+    },
+    {
+      "number": 18,
+      "text": "كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ",
+      "translation_en": "Thus do We deal with the criminals.",
+      "translation_bn": "অপরাধীদের সাথে আমি এরূপই করে থাকি।"
+    },
+    {
+      "number": 19,
+      "text": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translation_en": "Woe, that Day, to the deniers.",
+      "translation_bn": "সেদিন মিথ্যারোপকারীদের দুর্ভোগ হবে।"
+    },
+    {
+      "number": 20,
+      "text": "أَلَمْ نَخْلُقكُّم مِّن مَّآءٍ مَّهِينٍ",
+      "translation_en": "Did We not create you from a liquid disdained?",
+      "translation_bn": "আমি কি তোমাদেরকে তুচ্ছ পানি থেকে সৃষ্টি করিনি?"
+    },
+    {
+      "number": 21,
+      "text": "فَجَعَلْنَٰهُ فِى قَرَارٍ مَّكِينٍ",
+      "translation_en": "And We placed it in a firm lodging",
+      "translation_bn": "অতঃপর আমি তা রেখেছি এক সংরক্ষিত আধারে,"
+    },
+    {
+      "number": 22,
+      "text": "إِلَىٰ قَدَرٍ مَّعْلُومٍ",
+      "translation_en": "For a known extent.",
+      "translation_bn": "এক নির্দিষ্টকাল পর্যন্ত,"
+    },
+    {
+      "number": 23,
+      "text": "فَقَدَرْنَا فَنِعْمَ ٱلْقَٰدِرُونَ",
+      "translation_en": "And We determined [it], and excellent [are We] to determine.",
+      "translation_bn": "অতঃপর আমি পরিমিত আকারে সৃষ্টি করেছি, আমি কত সক্ষম স্রষ্টা?"
+    },
+    {
+      "number": 24,
+      "text": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translation_en": "Woe, that Day, to the deniers.",
+      "translation_bn": "সেদিন মিথ্যারোপকারীদের দুর্ভোগ হবে।"
+    },
+    {
+      "number": 25,
+      "text": "أَلَمْ نَجْعَلِ ٱلْأَرْضَ كِفَاتًا",
+      "translation_en": "Have We not made the earth a container",
+      "translation_bn": "আমি কি পৃথিবীকে সৃষ্টি করিনি ধারণকারিণীরূপে,"
+    },
+    {
+      "number": 26,
+      "text": "أَحْيَآءً وَأَمْوَٰتًا",
+      "translation_en": "Of the living and the dead?",
+      "translation_bn": "জীবিত ও মৃতদেরকে?"
+    },
+    {
+      "number": 27,
+      "text": "وَجَعَلْنَا فِيهَا رَوَٰسِىَ شَٰمِخَٰتٍ وَأَسْقَيْنَٰكُم مَّآءً فُرَاتًا",
+      "translation_en": "And We placed therein lofty, firmly set mountains and have given you to drink sweet water.",
+      "translation_bn": "আমি তাতে স্থাপন করেছি মজবুত সুউচ্চ পর্বতমালা এবং পান করিয়েছি তোমাদেরকে তৃষ্ণা নিবারণকারী সুপেয় পানি।"
+    },
+    {
+      "number": 28,
+      "text": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translation_en": "Woe, that Day, to the deniers.",
+      "translation_bn": "সেদিন মিথ্যারোপকারীদের দুর্ভোগ হবে।"
+    },
+    {
+      "number": 29,
+      "text": "ٱنطَلِقُوٓا۟ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ",
+      "translation_en": "[They will be told], \"Proceed to that which you used to deny.",
+      "translation_bn": "চল তোমরা তারই দিকে, যাকে তোমরা মিথ্যা বলতে।"
+    },
+    {
+      "number": 30,
+      "text": "ٱنطَلِقُوٓا۟ إِلَىٰ ظِلٍّ ذِى ثَلَٰثِ شُعَبٍ",
+      "translation_en": "Proceed to a shadow [of smoke] having three columns",
+      "translation_bn": "চল তোমরা তিন কুন্ডলীবিশিষ্ট ছায়ার দিকে,"
+    },
+    {
+      "number": 31,
+      "text": "لَّا ظَلِيلٍ وَلَا يُغْنِى مِنَ ٱللَّهَبِ",
+      "translation_en": "[But having] no cool shade and availing not against the flame.\"",
+      "translation_bn": "যে ছায়া সুনিবিড় নয় এবং অগ্নির উত্তাপ থেকে রক্ষা করে না।"
+    },
+    {
+      "number": 32,
+      "text": "إِنَّهَا تَرْمِى بِشَرَرٍ كَٱلْقَصْرِ",
+      "translation_en": "Indeed, it throws sparks [as huge] as a fortress,",
+      "translation_bn": "এটা অট্টালিকা সদৃশ বৃহৎ স্ফুলিংগ নিক্ষেপ করবে।"
+    },
+    {
+      "number": 33,
+      "text": "كَأَنَّهُۥ جِمَٰلَتٌ صُفْرٌ",
+      "translation_en": "As if they were yellowish [black] camels.",
+      "translation_bn": "যেন সে পীতবর্ণ উষ্ট্রশ্রেণী।"
+    },
+    {
+      "number": 34,
+      "text": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translation_en": "Woe, that Day, to the deniers.",
+      "translation_bn": "সেদিন মিথ্যারোপকারীদের দুর্ভোগ হবে।"
+    },
+    {
+      "number": 35,
+      "text": "هَٰذَا يَوْمُ لَا يَنطِقُونَ",
+      "translation_en": "This is a Day they will not speak,",
+      "translation_bn": "এটা এমন দিন, যেদিন কেউ কথা বলবে না।"
+    },
+    {
+      "number": 36,
+      "text": "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ",
+      "translation_en": "Nor will it be permitted for them to make an excuse.",
+      "translation_bn": "এবং কাউকে তওবা করার অনুমতি দেয়া হবে না।"
+    },
+    {
+      "number": 37,
+      "text": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translation_en": "Woe, that Day, to the deniers.",
+      "translation_bn": "সেদিন মিথ্যারোপকারীদের দুর্ভোগ হবে।"
+    },
+    {
+      "number": 38,
+      "text": "هَٰذَا يَوْمُ ٱلْفَصْلِ جَمَعْنَٰكُمْ وَٱلْأَوَّلِينَ",
+      "translation_en": "This is the Day of Judgement; We will have assembled you and the former peoples.",
+      "translation_bn": "এটা বিচার দিবস, আমি তোমাদেরকে এবং তোমাদের পূর্ববর্তীদেরকে একত্রিত করেছি।"
+    },
+    {
+      "number": 39,
+      "text": "فَإِن كَانَ لَكُمْ كَيْدٌ فَكِيدُونِ",
+      "translation_en": "So if you have a plan, then plan against Me.",
+      "translation_bn": "অতএব, তোমাদের কোন অপকৌশল থাকলে তা প্রয়োগ কর আমার কাছে।"
+    },
+    {
+      "number": 40,
+      "text": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translation_en": "Woe, that Day, to the deniers.",
+      "translation_bn": "সেদিন মিথ্যারোপকারীদের দুর্ভোগ হবে।"
+    },
+    {
+      "number": 41,
+      "text": "إِنَّ ٱلْمُتَّقِينَ فِى ظِلَٰلٍ وَعُيُونٍ",
+      "translation_en": "Indeed, the righteous will be among shades and springs",
+      "translation_bn": "নিশ্চয় খোদাভীরুরা থাকবে ছায়ায় এবং প্রস্রবণসমূহে-"
+    },
+    {
+      "number": 42,
+      "text": "وَفَوَٰكِهَ مِمَّا يَشْتَهُونَ",
+      "translation_en": "And fruits from whatever they desire,",
+      "translation_bn": "এবং তাদের বাঞ্ছিত ফল-মূলের মধ্যে।"
+    },
+    {
+      "number": 43,
+      "text": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ",
+      "translation_en": "[Being told], \"Eat and drink in satisfaction for what you used to do.\"",
+      "translation_bn": "বলা হবেঃ তোমরা যা করতে তার বিনিময়ে তৃপ্তির সাথে পানাহার কর।"
+    },
+    {
+      "number": 44,
+      "text": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "translation_en": "Indeed, We thus reward the doers of good.",
+      "translation_bn": "এভাবেই আমি সৎকর্মশীলদেরকে পুরস্কৃত করে থাকি।"
+    },
+    {
+      "number": 45,
+      "text": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translation_en": "Woe, that Day, to the deniers.",
+      "translation_bn": "সেদিন মিথ্যারোপকারীদের দুর্ভোগ হবে।"
+    },
+    {
+      "number": 46,
+      "text": "كُلُوا۟ وَتَمَتَّعُوا۟ قَلِيلًا إِنَّكُم مُّجْرِمُونَ",
+      "translation_en": "[O disbelievers], eat and enjoy yourselves a little; indeed, you are criminals.",
+      "translation_bn": "কাফেরগণ, তোমরা কিছুদিন খেয়ে নাও এবং ভোগ করে নাও। তোমরা তো অপরাধী।"
+    },
+    {
+      "number": 47,
+      "text": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translation_en": "Woe, that Day, to the deniers.",
+      "translation_bn": "সেদিন মিথ্যারোপকারীদের দুর্ভোগ হবে।"
+    },
+    {
+      "number": 48,
+      "text": "وَإِذَا قِيلَ لَهُمُ ٱرْكَعُوا۟ لَا يَرْكَعُونَ",
+      "translation_en": "And when it is said to them, \"Bow [in prayer],\" they do not bow.",
+      "translation_bn": "যখন তাদেরকে বলা হয়, নত হও, তখন তারা নত হয় না।"
+    },
+    {
+      "number": 49,
+      "text": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translation_en": "Woe, that Day, to the deniers.",
+      "translation_bn": "সেদিন মিথ্যারোপকারীদের দুর্ভোগ হবে।"
+    },
+    {
+      "number": 50,
+      "text": "فَبِأَىِّ حَدِيثٍۭ بَعْدَهُۥ يُؤْمِنُونَ",
+      "translation_en": "Then in what statement after the Qur'an will they believe?",
+      "translation_bn": "এখন কোন কথায় তারা এরপর বিশ্বাস স্থাপন করবে?"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Az-Zalzalah",
+  "name_translations": {
+    "ar": "الزلزلة",
+    "en": "The Earthquake"
+  },
+  "number_of_ayah": 8,
+  "number_of_surah": 99,
+  "place": "Medina",
+  "recitations": [
+    {
+      "name": "Mishari Rashid al-`Afasy",
+      "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/099.mp3"
+    },
+    {
+      "name": "Abdur-Rahman as-Sudais",
+      "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/099.mp3"
+    },
+    {
+      "name": "Saad al-Ghamdi",
+      "audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/099.mp3"
+    }
+  ],
+  "type": "Madaniyah",
+  "verses": [
+    {
+      "number": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+      "translation_en": "When the earth is shaken with its [final] earthquake",
+      "translation_bn": "যখন পৃথিবী তার কম্পনে প্রকম্পিত হবে,"
+    },
+    {
+      "number": 2,
+      "text": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+      "translation_en": "And the earth discharges its burdens",
+      "translation_bn": "যখন সে তার বোঝা বের করে দেবে।"
+    },
+    {
+      "number": 3,
+      "text": "وَقَالَ ٱلْإِنسَٰنُ مَا لَهَا",
+      "translation_en": "And man says, \"What is [wrong] with it?\" -",
+      "translation_bn": "এবং মানুষ বলবে, এর কি হল ?"
+    },
+    {
+      "number": 4,
+      "text": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+      "translation_en": "That Day, it will report its news",
+      "translation_bn": "সেদিন সে তার বৃত্তান্ত বর্ণনা করবে,"
+    },
+    {
+      "number": 5,
+      "text": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+      "translation_en": "Because your Lord has commanded it.",
+      "translation_bn": "কারণ, আপনার পালনকর্তা তাকে আদেশ করবেন।"
+    },
+    {
+      "number": 6,
+      "text": "يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَٰلَهُمْ",
+      "translation_en": "That Day, the people will depart separated [into categories] to be shown [the result of] their deeds.",
+      "translation_bn": "সেদিন মানুষ বিভিন্ন দলে প্রকাশ পাবে, যাতে তাদেরকে তাদের কৃতকর্ম দেখানো হয়।"
+    },
+    {
+      "number": 7,
+      "text": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ",
+      "translation_en": "So whoever does an atom's weight of good will see it,",
+      "translation_bn": "অতঃপর কেউ অণু পরিমাণ সৎকর্ম করলে তা দেখতে পাবে"
+    },
+    {
+      "number": 8,
+      "text": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ",
+      "translation_en": "And whoever does an atom's weight of evil will see it.",
+      "translation_bn": "এবং কেউ অণু পরিমাণ অসৎকর্ম করলে তাও দেখতে পাবে।"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "name": "Al-Ala",
+  "name_translations": {
+    "ar": "الأعلى",
+    "en": "The Most High"
+  },
+  "number_of_ayah": 19,
+  "number_of_surah": 87,
+  "place": "Mecca",
+  "recitations": [
+    {
+      "name": "Mishari Rashid al-`Afasy",
+      "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/087.mp3"
+    },
+    {
+      "name": "Abdur-Rahman as-Sudais",
+      "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/087.mp3"
+    },
+    {
+      "name": "Saad al-Ghamdi",
+      "audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/087.mp3"
+    }
+  ],
+  "type": "Makkiyah",
+  "verses": [
+    {
+      "number": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ سَبِّحِ ٱسْمَ رَبِّكَ ٱلْأَعْلَى",
+      "translation_en": "Exalt the name of your Lord, the Most High,",
+      "translation_bn": "আপনি আপনার মহান পালনকর্তার নামের পবিত্রতা বর্ণনা করুন"
+    },
+    {
+      "number": 2,
+      "text": "ٱلَّذِى خَلَقَ فَسَوَّىٰ",
+      "translation_en": "Who created and proportioned",
+      "translation_bn": "যিনি সৃষ্টি করেছেন ও সুবিন্যস্ত করেছেন।"
+    },
+    {
+      "number": 3,
+      "text": "وَٱلَّذِى قَدَّرَ فَهَدَىٰ",
+      "translation_en": "And who destined and [then] guided",
+      "translation_bn": "এবং যিনি সুপরিমিত করেছেন ও পথ প্রদর্শন করেছেন"
+    },
+    {
+      "number": 4,
+      "text": "وَٱلَّذِىٓ أَخْرَجَ ٱلْمَرْعَىٰ",
+      "translation_en": "And who brings out the pasture",
+      "translation_bn": "এবং যিনি তৃণাদি উৎপন্ন করেছেন,"
+    },
+    {
+      "number": 5,
+      "text": "فَجَعَلَهُۥ غُثَآءً أَحْوَىٰ",
+      "translation_en": "And [then] makes it black stubble.",
+      "translation_bn": "অতঃপর করেছেন তাকে কাল আবর্জনা।"
+    },
+    {
+      "number": 6,
+      "text": "سَنُقْرِئُكَ فَلَا تَنسَىٰٓ",
+      "translation_en": "We will make you recite, [O Muhammad], and you will not forget,",
+      "translation_bn": "আমি আপনাকে পাঠ করাতে থাকব, ফলে আপনি বিস্মৃত হবেন না"
+    },
+    {
+      "number": 7,
+      "text": "إِلَّا مَا شَآءَ ٱللَّهُ إِنَّهُۥ يَعْلَمُ ٱلْجَهْرَ وَمَا يَخْفَىٰ",
+      "translation_en": "Except what Allah should will. Indeed, He knows what is declared and what is hidden.",
+      "translation_bn": "আল্লাহ যা ইচ্ছা করেন তা ব্যতীত। নিশ্চয় তিনি জানেন প্রকাশ্য ও গোপন বিষয়।"
+    },
+    {
+      "number": 8,
+      "text": "وَنُيَسِّرُكَ لِلْيُسْرَىٰ",
+      "translation_en": "And We will ease you toward ease.",
+      "translation_bn": "আমি আপনার জন্যে সহজ শরীয়ত সহজতর করে দেবো।"
+    },
+    {
+      "number": 9,
+      "text": "فَذَكِّرْ إِن نَّفَعَتِ ٱلذِّكْرَىٰ",
+      "translation_en": "So remind, if the reminder should benefit;",
+      "translation_bn": "উপদেশ ফলপ্রসূ হলে উপদেশ দান করুন,"
+    },
+    {
+      "number": 10,
+      "text": "سَيَذَّكَّرُ مَن يَخْشَىٰ",
+      "translation_en": "He who fears [Allah] will be reminded.",
+      "translation_bn": "যে ভয় করে, সে উপদেশ গ্রহণ করবে,"
+    },
+    {
+      "number": 11,
+      "text": "وَيَتَجَنَّبُهَا ٱلْأَشْقَى",
+      "translation_en": "But the wretched one will avoid it -",
+      "translation_bn": "আর যে, হতভাগা, সে তা উপেক্ষা করবে,"
+    },
+    {
+      "number": 12,
+      "text": "ٱلَّذِى يَصْلَى ٱلنَّارَ ٱلْكُبْرَىٰ",
+      "translation_en": "[He] who will [enter and] burn in the greatest Fire,",
+      "translation_bn": "সে মহা-অগ্নিতে প্রবেশ করবে।"
+    },
+    {
+      "number": 13,
+      "text": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ",
+      "translation_en": "Neither dying therein nor living.",
+      "translation_bn": "অতঃপর সেখানে সে মরবেও না, জীবিতও থাকবে না।"
+    },
+    {
+      "number": 14,
+      "text": "قَدْ أَفْلَحَ مَن تَزَكَّىٰ",
+      "translation_en": "He has certainly succeeded who purifies himself",
+      "translation_bn": "নিশ্চয় সাফল্য লাভ করবে সে, যে শুদ্ধ হয়"
+    },
+    {
+      "number": 15,
+      "text": "وَذَكَرَ ٱسْمَ رَبِّهِۦ فَصَلَّىٰ",
+      "translation_en": "And mentions the name of his Lord and prays.",
+      "translation_bn": "এবং তার পালনকর্তার নাম স্মরণ করে, অতঃপর নামায আদায় করে।"
+    },
+    {
+      "number": 16,
+      "text": "بَلْ تُؤْثِرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا",
+      "translation_en": "But you prefer the worldly life,",
+      "translation_bn": "বস্তুতঃ তোমরা পার্থিব জীবনকে অগ্রাধিকার দাও,"
+    },
+    {
+      "number": 17,
+      "text": "وَٱلْءَاخِرَةُ خَيْرٌ وَأَبْقَىٰٓ",
+      "translation_en": "While the Hereafter is better and more enduring.",
+      "translation_bn": "অথচ পরকালের জীবন উৎকৃষ্ট ও স্থায়ী।"
+    },
+    {
+      "number": 18,
+      "text": "إِنَّ هَٰذَا لَفِى ٱلصُّحُفِ ٱلْأُولَىٰ",
+      "translation_en": "Indeed, this is in the former scriptures,",
+      "translation_bn": "এটা লিখিত রয়েছে পূর্ববতী কিতাবসমূহে;"
+    },
+    {
+      "number": 19,
+      "text": "صُحُفِ إِبْرَٰهِيمَ وَمُوسَىٰ",
+      "translation_en": "The scriptures of Abraham and Moses.",
+      "translation_bn": "ইব্রাহীম ও মূসার কিতাবসমূহে।"
+    }
+  ]
+}

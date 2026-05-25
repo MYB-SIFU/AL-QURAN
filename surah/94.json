@@ -1,0 +1,75 @@
+{
+  "name": "Ash-Sharh",
+  "name_translations": {
+    "ar": "الشرح",
+    "en": "The Consolation"
+  },
+  "number_of_ayah": 8,
+  "number_of_surah": 94,
+  "place": "Mecca",
+  "recitations": [
+    {
+      "name": "Mishari Rashid al-`Afasy",
+      "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/094.mp3"
+    },
+    {
+      "name": "Abdur-Rahman as-Sudais",
+      "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/094.mp3"
+    },
+    {
+      "name": "Saad al-Ghamdi",
+      "audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/094.mp3"
+    }
+  ],
+  "type": "Makkiyah",
+  "verses": [
+    {
+      "number": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+      "translation_en": "Did We not expand for you, [O Muhammad], your breast?",
+      "translation_bn": "আমি কি আপনার বক্ষ উম্মুক্ত করে দেইনি?"
+    },
+    {
+      "number": 2,
+      "text": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+      "translation_en": "And We removed from you your burden",
+      "translation_bn": "আমি লাঘব করেছি আপনার বোঝা,"
+    },
+    {
+      "number": 3,
+      "text": "ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ",
+      "translation_en": "Which had weighed upon your back",
+      "translation_bn": "যা ছিল আপনার জন্যে অতিশয় দুঃসহ।"
+    },
+    {
+      "number": 4,
+      "text": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+      "translation_en": "And raised high for you your repute.",
+      "translation_bn": "আমি আপনার আলোচনাকে সমুচ্চ করেছি।"
+    },
+    {
+      "number": 5,
+      "text": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "translation_en": "For indeed, with hardship [will be] ease.",
+      "translation_bn": "নিশ্চয় কষ্টের সাথে স্বস্তি রয়েছে।"
+    },
+    {
+      "number": 6,
+      "text": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "translation_en": "Indeed, with hardship [will be] ease.",
+      "translation_bn": "নিশ্চয় কষ্টের সাথে স্বস্তি রয়েছে।"
+    },
+    {
+      "number": 7,
+      "text": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
+      "translation_en": "So when you have finished [your duties], then stand up [for worship].",
+      "translation_bn": "অতএব, যখন অবসর পান পরিশ্রম করুন।"
+    },
+    {
+      "number": 8,
+      "text": "وَإِلَىٰ رَبِّكَ فَٱرْغَب",
+      "translation_en": "And to your Lord direct [your] longing.",
+      "translation_bn": "এবং আপনার পালনকর্তার প্রতি মনোনিবেশ করুন।"
+    }
+  ]
+}

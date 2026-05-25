@@ -1,0 +1,267 @@
+{
+  "name": "Al-Qiyamah",
+  "name_translations": {
+    "ar": "القيامة",
+    "en": "The Resurrection"
+  },
+  "number_of_ayah": 40,
+  "number_of_surah": 75,
+  "place": "Mecca",
+  "recitations": [
+    {
+      "name": "Mishari Rashid al-`Afasy",
+      "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/075.mp3"
+    },
+    {
+      "name": "Abdur-Rahman as-Sudais",
+      "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/075.mp3"
+    },
+    {
+      "name": "Saad al-Ghamdi",
+      "audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/075.mp3"
+    }
+  ],
+  "type": "Makkiyah",
+  "verses": [
+    {
+      "number": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ لَآ أُقْسِمُ بِيَوْمِ ٱلْقِيَٰمَةِ",
+      "translation_en": "I swear by the Day of Resurrection",
+      "translation_bn": "আমি শপথ করি কেয়ামত দিবসের,"
+    },
+    {
+      "number": 2,
+      "text": "وَلَآ أُقْسِمُ بِٱلنَّفْسِ ٱللَّوَّامَةِ",
+      "translation_en": "And I swear by the reproaching soul [to the certainty of resurrection].",
+      "translation_bn": "আরও শপথ করি সেই মনের, যে নিজেকে ধিক্কার দেয়-"
+    },
+    {
+      "number": 3,
+      "text": "أَيَحْسَبُ ٱلْإِنسَٰنُ أَلَّن نَّجْمَعَ عِظَامَهُۥ",
+      "translation_en": "Does man think that We will not assemble his bones?",
+      "translation_bn": "মানুষ কি মনে করে যে আমি তার অস্থিসমূহ একত্রিত করব না?"
+    },
+    {
+      "number": 4,
+      "text": "بَلَىٰ قَٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّىَ بَنَانَهُۥ",
+      "translation_en": "Yes. [We are] Able [even] to proportion his fingertips.",
+      "translation_bn": "পরন্ত আমি তার অংগুলিগুলো পর্যন্ত সঠিকভাবে সন্নিবেশিত করতে সক্ষম।"
+    },
+    {
+      "number": 5,
+      "text": "بَلْ يُرِيدُ ٱلْإِنسَٰنُ لِيَفْجُرَ أَمَامَهُۥ",
+      "translation_en": "But man desires to continue in sin.",
+      "translation_bn": "বরং মানুষ তার ভবিষ্যত জীবনেও ধৃষ্টতা করতে চায়"
+    },
+    {
+      "number": 6,
+      "text": "يَسْـَٔلُ أَيَّانَ يَوْمُ ٱلْقِيَٰمَةِ",
+      "translation_en": "He asks, \"When is the Day of Resurrection?\"",
+      "translation_bn": "সে প্রশ্ন করে-কেয়ামত দিবস কবে?"
+    },
+    {
+      "number": 7,
+      "text": "فَإِذَا بَرِقَ ٱلْبَصَرُ",
+      "translation_en": "So when vision is dazzled",
+      "translation_bn": "যখন দৃষ্টি চমকে যাবে,"
+    },
+    {
+      "number": 8,
+      "text": "وَخَسَفَ ٱلْقَمَرُ",
+      "translation_en": "And the moon darkens",
+      "translation_bn": "চন্দ্র জ্যোতিহীন হয়ে যাবে।"
+    },
+    {
+      "number": 9,
+      "text": "وَجُمِعَ ٱلشَّمْسُ وَٱلْقَمَرُ",
+      "translation_en": "And the sun and the moon are joined,",
+      "translation_bn": "এবং সূর্য ও চন্দ্রকে একত্রিত করা হবে-"
+    },
+    {
+      "number": 10,
+      "text": "يَقُولُ ٱلْإِنسَٰنُ يَوْمَئِذٍ أَيْنَ ٱلْمَفَرُّ",
+      "translation_en": "Man will say on that Day, \"Where is the [place of] escape?\"",
+      "translation_bn": "সে দিন মানুষ বলবেঃ পলায়নের জায়গা কোথায় ?"
+    },
+    {
+      "number": 11,
+      "text": "كَلَّا لَا وَزَرَ",
+      "translation_en": "No! There is no refuge.",
+      "translation_bn": "না কোথাও আশ্রয়স্থল নেই।"
+    },
+    {
+      "number": 12,
+      "text": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ ٱلْمُسْتَقَرُّ",
+      "translation_en": "To your Lord, that Day, is the [place of] permanence.",
+      "translation_bn": "আপনার পালনকর্তার কাছেই সেদিন ঠাঁই হবে।"
+    },
+    {
+      "number": 13,
+      "text": "يُنَبَّؤُا۟ ٱلْإِنسَٰنُ يَوْمَئِذٍۭ بِمَا قَدَّمَ وَأَخَّرَ",
+      "translation_en": "Man will be informed that Day of what he sent ahead and kept back.",
+      "translation_bn": "সেদিন মানুষকে অবহিত করা হবে সে যা সামনে প্রেরণ করেছে ও পশ্চাতে ছেড়ে দিয়েছে।"
+    },
+    {
+      "number": 14,
+      "text": "بَلِ ٱلْإِنسَٰنُ عَلَىٰ نَفْسِهِۦ بَصِيرَةٌ",
+      "translation_en": "Rather, man, against himself, will be a witness,",
+      "translation_bn": "বরং মানুষ নিজেই তার নিজের সম্পর্কে চক্ষুমান।"
+    },
+    {
+      "number": 15,
+      "text": "وَلَوْ أَلْقَىٰ مَعَاذِيرَهُۥ",
+      "translation_en": "Even if he presents his excuses.",
+      "translation_bn": "যদিও সে তার অজুহাত পেশ করতে চাইবে।"
+    },
+    {
+      "number": 16,
+      "text": "لَا تُحَرِّكْ بِهِۦ لِسَانَكَ لِتَعْجَلَ بِهِۦٓ",
+      "translation_en": "Move not your tongue with it, [O Muhammad], to hasten with recitation of the Qur'an.",
+      "translation_bn": "তাড়াতাড়ি শিখে নেয়ার জন্যে আপনি দ্রুত ওহী আবৃত্তি করবেন না।"
+    },
+    {
+      "number": 17,
+      "text": "إِنَّ عَلَيْنَا جَمْعَهُۥ وَقُرْءَانَهُۥ",
+      "translation_en": "Indeed, upon Us is its collection [in your heart] and [to make possible] its recitation.",
+      "translation_bn": "এর সংরক্ষণ ও পাঠ আমারই দায়িত্ব।"
+    },
+    {
+      "number": 18,
+      "text": "فَإِذَا قَرَأْنَٰهُ فَٱتَّبِعْ قُرْءَانَهُۥ",
+      "translation_en": "So when We have recited it [through Gabriel], then follow its recitation.",
+      "translation_bn": "অতঃপর আমি যখন তা পাঠ করি, তখন আপনি সেই পাঠের অনুসরণ করুন।"
+    },
+    {
+      "number": 19,
+      "text": "ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُۥ",
+      "translation_en": "Then upon Us is its clarification [to you].",
+      "translation_bn": "এরপর বিশদ বর্ণনা আমারই দায়িত্ব।"
+    },
+    {
+      "number": 20,
+      "text": "كَلَّا بَلْ تُحِبُّونَ ٱلْعَاجِلَةَ",
+      "translation_en": "No! But you love the immediate",
+      "translation_bn": "কখনও না, বরং তোমরা পার্থিব জীবনকে ভালবাস"
+    },
+    {
+      "number": 21,
+      "text": "وَتَذَرُونَ ٱلْءَاخِرَةَ",
+      "translation_en": "And leave the Hereafter.",
+      "translation_bn": "এবং পরকালকে উপেক্ষা কর।"
+    },
+    {
+      "number": 22,
+      "text": "وُجُوهٌ يَوْمَئِذٍ نَّاضِرَةٌ",
+      "translation_en": "[Some] faces, that Day, will be radiant,",
+      "translation_bn": "সেদিন অনেক মুখমন্ডল উজ্জ্বল হবে।"
+    },
+    {
+      "number": 23,
+      "text": "إِلَىٰ رَبِّهَا نَاظِرَةٌ",
+      "translation_en": "Looking at their Lord.",
+      "translation_bn": "তারা তার পালনকর্তার দিকে তাকিয়ে থাকবে।"
+    },
+    {
+      "number": 24,
+      "text": "وَوُجُوهٌ يَوْمَئِذٍۭ بَاسِرَةٌ",
+      "translation_en": "And [some] faces, that Day, will be contorted,",
+      "translation_bn": "আর অনেক মুখমন্ডল সেদিন উদাস হয়ে পড়বে।"
+    },
+    {
+      "number": 25,
+      "text": "تَظُنُّ أَن يُفْعَلَ بِهَا فَاقِرَةٌ",
+      "translation_en": "Expecting that there will be done to them [something] backbreaking.",
+      "translation_bn": "তারা ধারণা করবে যে, তাদের সাথে কোমর-ভাঙ্গা আচরণ করা হবে।"
+    },
+    {
+      "number": 26,
+      "text": "كَلَّآ إِذَا بَلَغَتِ ٱلتَّرَاقِىَ",
+      "translation_en": "No! When the soul has reached the collar bones",
+      "translation_bn": "কখনও না, যখন প্রাণ কন্ঠাগত হবে।"
+    },
+    {
+      "number": 27,
+      "text": "وَقِيلَ مَنْ رَاقٍ",
+      "translation_en": "And it is said, \"Who will cure [him]?\"",
+      "translation_bn": "এবং বলা হবে, কে ঝাড়বে"
+    },
+    {
+      "number": 28,
+      "text": "وَظَنَّ أَنَّهُ ٱلْفِرَاقُ",
+      "translation_en": "And the dying one is certain that it is the [time of] separation",
+      "translation_bn": "এবং সে মনে করবে যে, বিদায়ের ক্ষণ এসে গেছে।"
+    },
+    {
+      "number": 29,
+      "text": "وَٱلْتَفَّتِ ٱلسَّاقُ بِٱلسَّاقِ",
+      "translation_en": "And the leg is wound about the leg,",
+      "translation_bn": "এবং গোছা গোছার সাথে জড়িত হয়ে যাবে।"
+    },
+    {
+      "number": 30,
+      "text": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ ٱلْمَسَاقُ",
+      "translation_en": "To your Lord, that Day, will be the procession.",
+      "translation_bn": "সেদিন, আপনার পালনকর্তার নিকট সবকিছু নীত হবে।"
+    },
+    {
+      "number": 31,
+      "text": "فَلَا صَدَّقَ وَلَا صَلَّىٰ",
+      "translation_en": "And the disbeliever had not believed, nor had he prayed.",
+      "translation_bn": "সে বিশ্বাস করেনি এবং নামায পড়েনি;"
+    },
+    {
+      "number": 32,
+      "text": "وَلَٰكِن كَذَّبَ وَتَوَلَّىٰ",
+      "translation_en": "But [instead], he denied and turned away.",
+      "translation_bn": "পরন্ত মিথ্যারোপ করেছে ও পৃষ্ঠ প্রদর্শন করেছে।"
+    },
+    {
+      "number": 33,
+      "text": "ثُمَّ ذَهَبَ إِلَىٰٓ أَهْلِهِۦ يَتَمَطَّىٰٓ",
+      "translation_en": "And then he went to his people, swaggering [in pride].",
+      "translation_bn": "অতঃপর সে দম্ভভরে পরিবার-পরিজনের নিকট ফিরে গিয়েছে।"
+    },
+    {
+      "number": 34,
+      "text": "أَوْلَىٰ لَكَ فَأَوْلَىٰ",
+      "translation_en": "Woe to you, and woe!",
+      "translation_bn": "তোমার দুর্ভোগের উপর দুর্ভোগ।"
+    },
+    {
+      "number": 35,
+      "text": "ثُمَّ أَوْلَىٰ لَكَ فَأَوْلَىٰٓ",
+      "translation_en": "Then woe to you, and woe!",
+      "translation_bn": "অতঃপর, তোমার দুর্ভোগের উপর দূর্ভোগ।"
+    },
+    {
+      "number": 36,
+      "text": "أَيَحْسَبُ ٱلْإِنسَٰنُ أَن يُتْرَكَ سُدًى",
+      "translation_en": "Does man think that he will be left neglected?",
+      "translation_bn": "মানুষ কি মনে করে যে, তাকে এমনি ছেড়ে দেয়া হবে?"
+    },
+    {
+      "number": 37,
+      "text": "أَلَمْ يَكُ نُطْفَةً مِّن مَّنِىٍّ يُمْنَىٰ",
+      "translation_en": "Had he not been a sperm from semen emitted?",
+      "translation_bn": "সে কি স্খলিত বীর্য ছিল না?"
+    },
+    {
+      "number": 38,
+      "text": "ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوَّىٰ",
+      "translation_en": "Then he was a clinging clot, and [Allah] created [his form] and proportioned [him]",
+      "translation_bn": "অতঃপর সে ছিল রক্তপিন্ড, অতঃপর আল্লাহ তাকে সৃষ্টি করেছেন এবং সুবিন্যস্ত করেছেন।"
+    },
+    {
+      "number": 39,
+      "text": "فَجَعَلَ مِنْهُ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ",
+      "translation_en": "And made of him two mates, the male and the female.",
+      "translation_bn": "অতঃপর তা থেকে সৃষ্টি করেছেন যুগল নর ও নারী।"
+    },
+    {
+      "number": 40,
+      "text": "أَلَيْسَ ذَٰلِكَ بِقَٰدِرٍ عَلَىٰٓ أَن يُحْۦِىَ ٱلْمَوْتَىٰ",
+      "translation_en": "Is not that [Creator] Able to give life to the dead?",
+      "translation_bn": "তবুও কি সেই আল্লাহ মৃতদেরকে জীবিত করতে সক্ষম নন?"
+    }
+  ]
+}

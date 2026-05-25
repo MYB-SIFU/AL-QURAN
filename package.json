@@ -1,0 +1,24 @@
+{
+  "name": "al-quran",
+  "version": "1.0.0",
+  "description": "Complete Quran REST API with Arabic text and English translations — Beautiful Islamic UI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "author": "SIFAT",
+  "license": "MIT",
+  "homepage": "https://github.com/MYB-SIFU/AL-QURAN",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MYB-SIFU/AL-QURAN.git"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}

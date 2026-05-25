@@ -1,0 +1,93 @@
+{
+  "name": "Al-Adiyat",
+  "name_translations": {
+    "ar": "العاديات",
+    "en": "The Chargers"
+  },
+  "number_of_ayah": 11,
+  "number_of_surah": 100,
+  "place": "Mecca",
+  "recitations": [
+    {
+      "name": "Mishari Rashid al-`Afasy",
+      "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/100.mp3"
+    },
+    {
+      "name": "Abdur-Rahman as-Sudais",
+      "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/100.mp3"
+    },
+    {
+      "name": "Saad al-Ghamdi",
+      "audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/100.mp3"
+    }
+  ],
+  "type": "Makkiyah",
+  "verses": [
+    {
+      "number": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلْعَٰدِيَٰتِ ضَبْحًا",
+      "translation_en": "By the racers, panting,",
+      "translation_bn": "শপথ উর্ধ্বশ্বাসে চলমান অশ্বসমূহের,"
+    },
+    {
+      "number": 2,
+      "text": "فَٱلْمُورِيَٰتِ قَدْحًا",
+      "translation_en": "And the producers of sparks [when] striking",
+      "translation_bn": "অতঃপর ক্ষুরাঘাতে অগ্নিবিচ্ছুরক অশ্বসমূহের"
+    },
+    {
+      "number": 3,
+      "text": "فَٱلْمُغِيرَٰتِ صُبْحًا",
+      "translation_en": "And the chargers at dawn,",
+      "translation_bn": "অতঃপর প্রভাতকালে আক্রমণকারী অশ্বসমূহের"
+    },
+    {
+      "number": 4,
+      "text": "فَأَثَرْنَ بِهِۦ نَقْعًا",
+      "translation_en": "Stirring up thereby [clouds of] dust,",
+      "translation_bn": "ও যারা সে সময়ে ধুলি উৎক্ষিপ্ত করে"
+    },
+    {
+      "number": 5,
+      "text": "فَوَسَطْنَ بِهِۦ جَمْعًا",
+      "translation_en": "Arriving thereby in the center collectively,",
+      "translation_bn": "অতঃপর যারা শক্রদলের অভ্যন্তরে ঢুকে পড়ে-"
+    },
+    {
+      "number": 6,
+      "text": "إِنَّ ٱلْإِنسَٰنَ لِرَبِّهِۦ لَكَنُودٌ",
+      "translation_en": "Indeed mankind, to his Lord, is ungrateful.",
+      "translation_bn": "নিশ্চয় মানুষ তার পালনকর্তার প্রতি অকৃতজ্ঞ।"
+    },
+    {
+      "number": 7,
+      "text": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ",
+      "translation_en": "And indeed, he is to that a witness.",
+      "translation_bn": "এবং সে অবশ্য এ বিষয়ে অবহিত"
+    },
+    {
+      "number": 8,
+      "text": "وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ",
+      "translation_en": "And indeed he is, in love of wealth, intense.",
+      "translation_bn": "এবং সে নিশ্চিতই ধন-সম্পদের ভালবাসায় মত্ত।"
+    },
+    {
+      "number": 9,
+      "text": "أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ",
+      "translation_en": "But does he not know that when the contents of the graves are scattered",
+      "translation_bn": "সে কি জানে না, যখন কবরে যা আছে, তা উত্থিত হবে"
+    },
+    {
+      "number": 10,
+      "text": "وَحُصِّلَ مَا فِى ٱلصُّدُورِ",
+      "translation_en": "And that within the breasts is obtained,",
+      "translation_bn": "এবং অন্তরে যা আছে, তা অর্জন করা হবে?"
+    },
+    {
+      "number": 11,
+      "text": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌۢ",
+      "translation_en": "Indeed, their Lord with them, that Day, is [fully] Acquainted.",
+      "translation_bn": "সেদিন তাদের কি হবে, সে সম্পর্কে তাদের পালনকর্তা সবিশেষ জ্ঞাত।"
+    }
+  ]
+}

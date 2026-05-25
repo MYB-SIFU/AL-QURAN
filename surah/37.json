@@ -1,0 +1,1119 @@
+{
+  "name": "As-Saffat",
+  "name_translations": {
+    "ar": "الصافات",
+    "en": "Those drawn up in Ranks"
+  },
+  "number_of_ayah": 182,
+  "number_of_surah": 37,
+  "place": "Mecca",
+  "recitations": [
+    {
+      "name": "Mishari Rashid al-`Afasy",
+      "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/037.mp3"
+    },
+    {
+      "name": "Abdur-Rahman as-Sudais",
+      "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/037.mp3"
+    },
+    {
+      "name": "Saad al-Ghamdi",
+      "audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/037.mp3"
+    }
+  ],
+  "type": "Makkiyah",
+  "verses": [
+    {
+      "number": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلصَّٰٓفَّٰتِ صَفًّا",
+      "translation_en": "By those [angels] lined up in rows",
+      "translation_bn": "শপথ তাদের যারা সারিবদ্ধ হয়ে দাঁড়ানো,"
+    },
+    {
+      "number": 2,
+      "text": "فَٱلزَّٰجِرَٰتِ زَجْرًا",
+      "translation_en": "And those who drive [the clouds]",
+      "translation_bn": "অতঃপর ধমকিয়ে ভীতি প্রদর্শনকারীদের,"
+    },
+    {
+      "number": 3,
+      "text": "فَٱلتَّٰلِيَٰتِ ذِكْرًا",
+      "translation_en": "And those who recite the message,",
+      "translation_bn": "অতঃপর মুখস্থ আবৃত্তিকারীদের-"
+    },
+    {
+      "number": 4,
+      "text": "إِنَّ إِلَٰهَكُمْ لَوَٰحِدٌ",
+      "translation_en": "Indeed, your God is One,",
+      "translation_bn": "নিশ্চয় তোমাদের মাবুদ এক।"
+    },
+    {
+      "number": 5,
+      "text": "رَّبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا وَرَبُّ ٱلْمَشَٰرِقِ",
+      "translation_en": "Lord of the heavens and the earth and that between them and Lord of the sunrises.",
+      "translation_bn": "তিনি আসমান সমূহ, যমীনও এতদুভয়ের মধ্যবর্তী সবকিছুর পালনকর্তা এবং পালনকর্তা উদয়াচলসমূহের।"
+    },
+    {
+      "number": 6,
+      "text": "إِنَّا زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِزِينَةٍ ٱلْكَوَاكِبِ",
+      "translation_en": "Indeed, We have adorned the nearest heaven with an adornment of stars",
+      "translation_bn": "নিশ্চয় আমি নিকটবর্তী আকাশকে তারকারাজির দ্বারা সুশোভিত করেছি।"
+    },
+    {
+      "number": 7,
+      "text": "وَحِفْظًا مِّن كُلِّ شَيْطَٰنٍ مَّارِدٍ",
+      "translation_en": "And as protection against every rebellious devil",
+      "translation_bn": "এবং তাকে সংরক্ষিত করেছি প্রত্যেক অবাধ্য শয়তান থেকে।"
+    },
+    {
+      "number": 8,
+      "text": "لَّا يَسَّمَّعُونَ إِلَى ٱلْمَلَإِ ٱلْأَعْلَىٰ وَيُقْذَفُونَ مِن كُلِّ جَانِبٍ",
+      "translation_en": "[So] they may not listen to the exalted assembly [of angels] and are pelted from every side,",
+      "translation_bn": "ওরা উর্ধ্ব জগতের কোন কিছু শ্রবণ করতে পারে না এবং চার দিক থেকে তাদের প্রতি উল্কা নিক্ষেপ করা হয়।"
+    },
+    {
+      "number": 9,
+      "text": "دُحُورًا وَلَهُمْ عَذَابٌ وَاصِبٌ",
+      "translation_en": "Repelled; and for them is a constant punishment,",
+      "translation_bn": "ওদেরকে বিতাড়নের উদ্দেশে। ওদের জন্যে রয়েছে বিরামহীন শাস্তি।"
+    },
+    {
+      "number": 10,
+      "text": "إِلَّا مَنْ خَطِفَ ٱلْخَطْفَةَ فَأَتْبَعَهُۥ شِهَابٌ ثَاقِبٌ",
+      "translation_en": "Except one who snatches [some words] by theft, but they are pursued by a burning flame, piercing [in brightness].",
+      "translation_bn": "তবে কেউ ছোঁ মেরে কিছু শুনে ফেললে জ্বলন্ত উল্কাপিন্ড তার পশ্চাদ্ধাবন করে।"
+    },
+    {
+      "number": 11,
+      "text": "فَٱسْتَفْتِهِمْ أَهُمْ أَشَدُّ خَلْقًا أَم مَّنْ خَلَقْنَآ إِنَّا خَلَقْنَٰهُم مِّن طِينٍ لَّازِبٍۭ",
+      "translation_en": "Then inquire of them, [O Muhammad], \"Are they a stronger [or more difficult] creation or those [others] We have created?\" Indeed, We created men from sticky clay.",
+      "translation_bn": "আপনি তাদেরকে জিজ্ঞেস করুন, তাদেরকে সৃষ্টি করা কঠিনতর, না আমি অন্য যা সৃষ্টি করেছি? আমিই তাদেরকে সৃষ্টি করেছি এঁটেল মাটি থেকে।"
+    },
+    {
+      "number": 12,
+      "text": "بَلْ عَجِبْتَ وَيَسْخَرُونَ",
+      "translation_en": "But you wonder, while they mock,",
+      "translation_bn": "বরং আপনি বিস্ময় বোধ করেন আর তারা বিদ্রুপ করে।"
+    },
+    {
+      "number": 13,
+      "text": "وَإِذَا ذُكِّرُوا۟ لَا يَذْكُرُونَ",
+      "translation_en": "And when they are reminded, they remember not.",
+      "translation_bn": "যখন তাদেরকে বোঝানো হয়, তখন তারা বোঝে না।"
+    },
+    {
+      "number": 14,
+      "text": "وَإِذَا رَأَوْا۟ ءَايَةً يَسْتَسْخِرُونَ",
+      "translation_en": "And when they see a sign, they ridicule",
+      "translation_bn": "তারা যখন কোন নিদর্শন দেখে তখন বিদ্রূপ করে।"
+    },
+    {
+      "number": 15,
+      "text": "وَقَالُوٓا۟ إِنْ هَٰذَآ إِلَّا سِحْرٌ مُّبِينٌ",
+      "translation_en": "And say, \"This is not but obvious magic.",
+      "translation_bn": "এবং বলে, কিছুই নয়, এযে স্পষ্ট যাদু।"
+    },
+    {
+      "number": 16,
+      "text": "أَءِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَٰمًا أَءِنَّا لَمَبْعُوثُونَ",
+      "translation_en": "When we have died and become dust and bones, are we indeed to be resurrected?",
+      "translation_bn": "আমরা যখন মরে যাব, এবং মাটি ও হাড়ে পরিণত হয়ে যাব, তখনও কি আমরা পুনরুত্থিত হব?"
+    },
+    {
+      "number": 17,
+      "text": "أَوَءَابَآؤُنَا ٱلْأَوَّلُونَ",
+      "translation_en": "And our forefathers [as well]?\"",
+      "translation_bn": "আমাদের পিতৃপুরুষগণও কি?"
+    },
+    {
+      "number": 18,
+      "text": "قُلْ نَعَمْ وَأَنتُمْ دَٰخِرُونَ",
+      "translation_en": "Say, \"Yes, and you will be [rendered] contemptible.\"",
+      "translation_bn": "বলুন, হ্যাঁ এবং তোমরা হবে লাঞ্ছিত।"
+    },
+    {
+      "number": 19,
+      "text": "فَإِنَّمَا هِىَ زَجْرَةٌ وَٰحِدَةٌ فَإِذَا هُمْ يَنظُرُونَ",
+      "translation_en": "It will be only one shout, and at once they will be observing.",
+      "translation_bn": "বস্তুতঃ সে উত্থান হবে একটি বিকট শব্দ মাত্র-যখন তারা প্রত্যক্ষ করতে থাকবে।"
+    },
+    {
+      "number": 20,
+      "text": "وَقَالُوا۟ يَٰوَيْلَنَا هَٰذَا يَوْمُ ٱلدِّينِ",
+      "translation_en": "They will say, \"O woe to us! This is the Day of Recompense.\"",
+      "translation_bn": "এবং বলবে, দুর্ভাগ্য আমাদের! এটাই তো প্রতিফল দিবস।"
+    },
+    {
+      "number": 21,
+      "text": "هَٰذَا يَوْمُ ٱلْفَصْلِ ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ",
+      "translation_en": "[They will be told], \"This is the Day of Judgement which you used to deny.\"",
+      "translation_bn": "বলা হবে, এটাই ফয়সালার দিন, যাকে তোমরা মিথ্যা বলতে।"
+    },
+    {
+      "number": 22,
+      "text": "ٱحْشُرُوا۟ ٱلَّذِينَ ظَلَمُوا۟ وَأَزْوَٰجَهُمْ وَمَا كَانُوا۟ يَعْبُدُونَ",
+      "translation_en": "[The angels will be ordered], \"Gather those who committed wrong, their kinds, and what they used to worship",
+      "translation_bn": "একত্রিত কর গোনাহগারদেরকে, তাদের দোসরদেরকে এবং যাদের এবাদত তারা করত।"
+    },
+    {
+      "number": 23,
+      "text": "مِن دُونِ ٱللَّهِ فَٱهْدُوهُمْ إِلَىٰ صِرَٰطِ ٱلْجَحِيمِ",
+      "translation_en": "Other than Allah, and guide them to the path of Hellfire",
+      "translation_bn": "আল্লাহ ব্যতীত। অতঃপর তাদেরকে পরিচালিত কর জাহান্নামের পথে,"
+    },
+    {
+      "number": 24,
+      "text": "وَقِفُوهُمْ إِنَّهُم مَّسْـُٔولُونَ",
+      "translation_en": "And stop them; indeed, they are to be questioned.\"",
+      "translation_bn": "এবং তাদেরকে থামাও, তারা জিজ্ঞাসিত হবে;"
+    },
+    {
+      "number": 25,
+      "text": "مَا لَكُمْ لَا تَنَاصَرُونَ",
+      "translation_en": "[They will be asked], \"What is [wrong] with you? Why do you not help each other?\"",
+      "translation_bn": "তোমাদের কি হল যে, তোমরা একে অপরের সাহায্য করছ না?"
+    },
+    {
+      "number": 26,
+      "text": "بَلْ هُمُ ٱلْيَوْمَ مُسْتَسْلِمُونَ",
+      "translation_en": "But they, that Day, are in surrender.",
+      "translation_bn": "বরং তারা আজকের দিনে আত্নসমর্পণকারী।"
+    },
+    {
+      "number": 27,
+      "text": "وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَآءَلُونَ",
+      "translation_en": "And they will approach one another blaming each other.",
+      "translation_bn": "তারা একে অপরের দিকে মুখ করে পরস্পরকে জিজ্ঞাসাবাদ করবে।"
+    },
+    {
+      "number": 28,
+      "text": "قَالُوٓا۟ إِنَّكُمْ كُنتُمْ تَأْتُونَنَا عَنِ ٱلْيَمِينِ",
+      "translation_en": "They will say, \"Indeed, you used to come at us from the right.\"",
+      "translation_bn": "বলবে, তোমরা তো আমাদের কাছে ডান দিক থেকে আসতে।"
+    },
+    {
+      "number": 29,
+      "text": "قَالُوا۟ بَل لَّمْ تَكُونُوا۟ مُؤْمِنِينَ",
+      "translation_en": "The oppressors will say, \"Rather, you [yourselves] were not believers,",
+      "translation_bn": "তারা বলবে, বরং তোমরা তো বিশ্বাসীই ছিলে না।"
+    },
+    {
+      "number": 30,
+      "text": "وَمَا كَانَ لَنَا عَلَيْكُم مِّن سُلْطَٰنٍۭ بَلْ كُنتُمْ قَوْمًا طَٰغِينَ",
+      "translation_en": "And we had over you no authority, but you were a transgressing people.",
+      "translation_bn": "এবং তোমাদের উপর আমাদের কোন কতৃত্ব ছিল না, বরং তোমরাই ছিলে সীমালংঘনকারী সম্প্রদায়।"
+    },
+    {
+      "number": 31,
+      "text": "فَحَقَّ عَلَيْنَا قَوْلُ رَبِّنَآ إِنَّا لَذَآئِقُونَ",
+      "translation_en": "So the word of our Lord has come into effect upon us; indeed, we will taste [punishment].",
+      "translation_bn": "আমাদের বিপক্ষে আমাদের পালনকর্তার উক্তিই সত্য হয়েছে। আমাদেরকে অবশই স্বাদ আস্বাদন করতে হবে।"
+    },
+    {
+      "number": 32,
+      "text": "فَأَغْوَيْنَٰكُمْ إِنَّا كُنَّا غَٰوِينَ",
+      "translation_en": "And we led you to deviation; indeed, we were deviators.\"",
+      "translation_bn": "আমরা তোমাদেরকে পথভ্রষ্ট করেছিলাম। কারণ আমরা নিজেরাই পথভ্রষ্ট ছিলাম।"
+    },
+    {
+      "number": 33,
+      "text": "فَإِنَّهُمْ يَوْمَئِذٍ فِى ٱلْعَذَابِ مُشْتَرِكُونَ",
+      "translation_en": "So indeed they, that Day, will be sharing in the punishment.",
+      "translation_bn": "তারা সবাই সেদিন শান্তিতে শরীক হবে।"
+    },
+    {
+      "number": 34,
+      "text": "إِنَّا كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ",
+      "translation_en": "Indeed, that is how We deal with the criminals.",
+      "translation_bn": "অপরাধীদের সাথে আমি এমনি ব্যবহার করে থাকি।"
+    },
+    {
+      "number": 35,
+      "text": "إِنَّهُمْ كَانُوٓا۟ إِذَا قِيلَ لَهُمْ لَآ إِلَٰهَ إِلَّا ٱللَّهُ يَسْتَكْبِرُونَ",
+      "translation_en": "Indeed they, when it was said to them, \"There is no deity but Allah,\" were arrogant",
+      "translation_bn": "তাদের যখন বলা হত, আল্লাহ ব্যতীত কোন উপাস্য েনই, তখন তারা ঔদ্ধত্য প্রদর্শন করত।"
+    },
+    {
+      "number": 36,
+      "text": "وَيَقُولُونَ أَئِنَّا لَتَارِكُوٓا۟ ءَالِهَتِنَا لِشَاعِرٍ مَّجْنُونٍۭ",
+      "translation_en": "And were saying, \"Are we to leave our gods for a mad poet?\"",
+      "translation_bn": "এবং বলত, আমরা কি এক উম্মাদ কবির কথায় আমাদের উপাস্যদেরকে পরিত্যাগ করব।"
+    },
+    {
+      "number": 37,
+      "text": "بَلْ جَآءَ بِٱلْحَقِّ وَصَدَّقَ ٱلْمُرْسَلِينَ",
+      "translation_en": "Rather, the Prophet has come with the truth and confirmed the [previous] messengers.",
+      "translation_bn": "না, তিনি সত্যসহ আগমন করেছেন এবং রসূলগণের সত্যতা স্বীকার করেছেন।"
+    },
+    {
+      "number": 38,
+      "text": "إِنَّكُمْ لَذَآئِقُوا۟ ٱلْعَذَابِ ٱلْأَلِيمِ",
+      "translation_en": "Indeed, you [disbelievers] will be tasters of the painful punishment,",
+      "translation_bn": "তোমরা অবশ্যই বেদনাদায়ক শাস্তি আস্বাদন করবে।"
+    },
+    {
+      "number": 39,
+      "text": "وَمَا تُجْزَوْنَ إِلَّا مَا كُنتُمْ تَعْمَلُونَ",
+      "translation_en": "And you will not be recompensed except for what you used to do -",
+      "translation_bn": "তোমরা যা করতে, তারই প্রতিফল পাবে।"
+    },
+    {
+      "number": 40,
+      "text": "إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ",
+      "translation_en": "But not the chosen servants of Allah.",
+      "translation_bn": "তবে তারা নয়, যারা আল্লাহর বাছাই করা বান্দা।"
+    },
+    {
+      "number": 41,
+      "text": "أُو۟لَٰٓئِكَ لَهُمْ رِزْقٌ مَّعْلُومٌ",
+      "translation_en": "Those will have a provision determined -",
+      "translation_bn": "তাদের জন্যে রয়েছে নির্ধারিত রুযি।"
+    },
+    {
+      "number": 42,
+      "text": "فَوَٰكِهُ وَهُم مُّكْرَمُونَ",
+      "translation_en": "Fruits; and they will be honored",
+      "translation_bn": "ফল-মূল এবং তারা সম্মানিত।"
+    },
+    {
+      "number": 43,
+      "text": "فِى جَنَّٰتِ ٱلنَّعِيمِ",
+      "translation_en": "In gardens of pleasure",
+      "translation_bn": "নেয়ামতের উদ্যানসমূহ।"
+    },
+    {
+      "number": 44,
+      "text": "عَلَىٰ سُرُرٍ مُّتَقَٰبِلِينَ",
+      "translation_en": "On thrones facing one another.",
+      "translation_bn": "মুখোমুখি হয়ে আসনে আসীন।"
+    },
+    {
+      "number": 45,
+      "text": "يُطَافُ عَلَيْهِم بِكَأْسٍ مِّن مَّعِينٍۭ",
+      "translation_en": "There will be circulated among them a cup [of wine] from a flowing spring,",
+      "translation_bn": "তাদেরকে ঘুরে ফিরে পরিবেশন করা হবে স্বচ্ছ পানপাত্র।"
+    },
+    {
+      "number": 46,
+      "text": "بَيْضَآءَ لَذَّةٍ لِّلشَّٰرِبِينَ",
+      "translation_en": "White and delicious to the drinkers;",
+      "translation_bn": "সুশুভ্র, যা পানকারীদের জন্যে সুস্বাদু।"
+    },
+    {
+      "number": 47,
+      "text": "لَا فِيهَا غَوْلٌ وَلَا هُمْ عَنْهَا يُنزَفُونَ",
+      "translation_en": "No bad effect is there in it, nor from it will they be intoxicated.",
+      "translation_bn": "তাতে মাথা ব্যথার উপাদান নেই এবং তারা তা পান করে মাতালও হবে না।"
+    },
+    {
+      "number": 48,
+      "text": "وَعِندَهُمْ قَٰصِرَٰتُ ٱلطَّرْفِ عِينٌ",
+      "translation_en": "And with them will be women limiting [their] glances, with large, [beautiful] eyes,",
+      "translation_bn": "তাদের কাছে থাকবে নত, আয়তলোচনা তরুণীগণ।"
+    },
+    {
+      "number": 49,
+      "text": "كَأَنَّهُنَّ بَيْضٌ مَّكْنُونٌ",
+      "translation_en": "As if they were [delicate] eggs, well-protected.",
+      "translation_bn": "যেন তারা সুরক্ষিত ডিম।"
+    },
+    {
+      "number": 50,
+      "text": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَآءَلُونَ",
+      "translation_en": "And they will approach one another, inquiring of each other.",
+      "translation_bn": "অতঃপর তারা একে অপরের দিকে মুখ করে জিজ্ঞাসাবাদ করবে।"
+    },
+    {
+      "number": 51,
+      "text": "قَالَ قَآئِلٌ مِّنْهُمْ إِنِّى كَانَ لِى قَرِينٌ",
+      "translation_en": "A speaker among them will say, \"Indeed, I had a companion [on earth]",
+      "translation_bn": "তাদের একজন বলবে, আমার এক সঙ্গী ছিল।"
+    },
+    {
+      "number": 52,
+      "text": "يَقُولُ أَءِنَّكَ لَمِنَ ٱلْمُصَدِّقِينَ",
+      "translation_en": "Who would say, 'Are you indeed of those who believe",
+      "translation_bn": "সে বলত, তুমি কি বিশ্বাস কর যে,"
+    },
+    {
+      "number": 53,
+      "text": "أَءِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَٰمًا أَءِنَّا لَمَدِينُونَ",
+      "translation_en": "That when we have died and become dust and bones, we will indeed be recompensed?'\"",
+      "translation_bn": "আমরা যখন মরে যাব এবং মাটি ও হাড়ে পরিণত হব, তখনও কি আমরা প্রতিফল প্রাপ্ত হব?"
+    },
+    {
+      "number": 54,
+      "text": "قَالَ هَلْ أَنتُم مُّطَّلِعُونَ",
+      "translation_en": "He will say, \"Would you [care to] look?\"",
+      "translation_bn": "আল্লাহ বলবেন, তোমরা কি তাকে উকি দিয়ে দেখতে চাও?"
+    },
+    {
+      "number": 55,
+      "text": "فَٱطَّلَعَ فَرَءَاهُ فِى سَوَآءِ ٱلْجَحِيمِ",
+      "translation_en": "And he will look and see him in the midst of the Hellfire.",
+      "translation_bn": "অপর সে উকি দিয়ে দেখবে এবং তাকে জাহান্নামের মাঝখানে দেখতে পাবে।"
+    },
+    {
+      "number": 56,
+      "text": "قَالَ تَٱللَّهِ إِن كِدتَّ لَتُرْدِينِ",
+      "translation_en": "He will say, \"By Allah, you almost ruined me.",
+      "translation_bn": "সে বলবে, আল্লাহর কসম, তুমি তো আমাকে প্রায় ধ্বংসই করে দিয়েছিলে।"
+    },
+    {
+      "number": 57,
+      "text": "وَلَوْلَا نِعْمَةُ رَبِّى لَكُنتُ مِنَ ٱلْمُحْضَرِينَ",
+      "translation_en": "If not for the favor of my Lord, I would have been of those brought in [to Hell].",
+      "translation_bn": "আমার পালনকর্তার অনুগ্রহ না হলে আমিও যে গ্রেফতারকৃতদের সাথেই উপস্থিত হতাম।"
+    },
+    {
+      "number": 58,
+      "text": "أَفَمَا نَحْنُ بِمَيِّتِينَ",
+      "translation_en": "Then, are we not to die",
+      "translation_bn": "এখন আমাদের আর মৃত্যু হবে না।"
+    },
+    {
+      "number": 59,
+      "text": "إِلَّا مَوْتَتَنَا ٱلْأُولَىٰ وَمَا نَحْنُ بِمُعَذَّبِينَ",
+      "translation_en": "Except for our first death, and we will not be punished?\"",
+      "translation_bn": "আমাদের প্রথম মৃত্যু ছাড়া এবং আমরা শাস্তি প্রাপ্তও হব না।"
+    },
+    {
+      "number": 60,
+      "text": "إِنَّ هَٰذَا لَهُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "translation_en": "Indeed, this is the great attainment.",
+      "translation_bn": "নিশ্চয় এই মহা সাফল্য।"
+    },
+    {
+      "number": 61,
+      "text": "لِمِثْلِ هَٰذَا فَلْيَعْمَلِ ٱلْعَٰمِلُونَ",
+      "translation_en": "For the like of this let the workers [on earth] work.",
+      "translation_bn": "এমন সাফল্যের জন্যে পরিশ্রমীদের পরিশ্রম করা উচিত।"
+    },
+    {
+      "number": 62,
+      "text": "أَذَٰلِكَ خَيْرٌ نُّزُلًا أَمْ شَجَرَةُ ٱلزَّقُّومِ",
+      "translation_en": "Is Paradise a better accommodation or the tree of zaqqum?",
+      "translation_bn": "এই কি উত্তম আপ্যায়ন, না যাক্কুম বৃক্ষ?"
+    },
+    {
+      "number": 63,
+      "text": "إِنَّا جَعَلْنَٰهَا فِتْنَةً لِّلظَّٰلِمِينَ",
+      "translation_en": "Indeed, We have made it a torment for the wrongdoers.",
+      "translation_bn": "আমি যালেমদের জন্যে একে বিপদ করেছি।"
+    },
+    {
+      "number": 64,
+      "text": "إِنَّهَا شَجَرَةٌ تَخْرُجُ فِىٓ أَصْلِ ٱلْجَحِيمِ",
+      "translation_en": "Indeed, it is a tree issuing from the bottom of the Hellfire,",
+      "translation_bn": "এটি একটি বৃক্ষ, যা উদগত হয় জাহান্নামের মূলে।"
+    },
+    {
+      "number": 65,
+      "text": "طَلْعُهَا كَأَنَّهُۥ رُءُوسُ ٱلشَّيَٰطِينِ",
+      "translation_en": "Its emerging fruit as if it was heads of the devils.",
+      "translation_bn": "এর গুচ্ছ শয়তানের মস্তকের মত।"
+    },
+    {
+      "number": 66,
+      "text": "فَإِنَّهُمْ لَءَاكِلُونَ مِنْهَا فَمَالِـُٔونَ مِنْهَا ٱلْبُطُونَ",
+      "translation_en": "And indeed, they will eat from it and fill with it their bellies.",
+      "translation_bn": "কাফেররা একে ভক্ষণ করবে এবং এর দ্বারা উদর পূর্ণ করবে।"
+    },
+    {
+      "number": 67,
+      "text": "ثُمَّ إِنَّ لَهُمْ عَلَيْهَا لَشَوْبًا مِّنْ حَمِيمٍ",
+      "translation_en": "Then indeed, they will have after it a mixture of scalding water.",
+      "translation_bn": "তদুপরি তাদেরকে দেয়া হবে। ফুটন্ত পানির মিশ্রণ,"
+    },
+    {
+      "number": 68,
+      "text": "ثُمَّ إِنَّ مَرْجِعَهُمْ لَإِلَى ٱلْجَحِيمِ",
+      "translation_en": "Then indeed, their return will be to the Hellfire.",
+      "translation_bn": "অতঃপর তাদের প্রত্যাবর্তন হবে জাহান্নামের দিকে।"
+    },
+    {
+      "number": 69,
+      "text": "إِنَّهُمْ أَلْفَوْا۟ ءَابَآءَهُمْ ضَآلِّينَ",
+      "translation_en": "Indeed they found their fathers astray.",
+      "translation_bn": "তারা তাদের পূর্বপুরুষদেরকে পেয়েছিল বিপথগামী।"
+    },
+    {
+      "number": 70,
+      "text": "فَهُمْ عَلَىٰٓ ءَاثَٰرِهِمْ يُهْرَعُونَ",
+      "translation_en": "So they hastened [to follow] in their footsteps.",
+      "translation_bn": "অতঃপর তারা তদের পদাংক অনুসরণে তৎপর ছিল।"
+    },
+    {
+      "number": 71,
+      "text": "وَلَقَدْ ضَلَّ قَبْلَهُمْ أَكْثَرُ ٱلْأَوَّلِينَ",
+      "translation_en": "And there had already strayed before them most of the former peoples,",
+      "translation_bn": "তাদের পূর্বেও অগ্রবর্তীদের অধিকাংশ বিপথগামী হয়েছিল।"
+    },
+    {
+      "number": 72,
+      "text": "وَلَقَدْ أَرْسَلْنَا فِيهِم مُّنذِرِينَ",
+      "translation_en": "And We had already sent among them warners.",
+      "translation_bn": "আমি তাদের মধ্যে ভীতি প্রদর্শনকারী প্রেরণ করেছিলাম।"
+    },
+    {
+      "number": 73,
+      "text": "فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُنذَرِينَ",
+      "translation_en": "Then look how was the end of those who were warned -",
+      "translation_bn": "অতএব লক্ষ্য করুন, যাদেরকে ভীতিপ্রদর্শণ করা হয়েছিল, তাদের পরিণতি কি হয়েছে।"
+    },
+    {
+      "number": 74,
+      "text": "إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ",
+      "translation_en": "But not the chosen servants of Allah.",
+      "translation_bn": "তবে আল্লাহর বাছাই করা বান্দাদের কথা ভিন্ন।"
+    },
+    {
+      "number": 75,
+      "text": "وَلَقَدْ نَادَىٰنَا نُوحٌ فَلَنِعْمَ ٱلْمُجِيبُونَ",
+      "translation_en": "And Noah had certainly called Us, and [We are] the best of responders.",
+      "translation_bn": "আর নূহ আমাকে ডেকেছিল। আর কি চমৎকারভাবে আমি তার ডাকে সাড়া দিয়েছিলাম।"
+    },
+    {
+      "number": 76,
+      "text": "وَنَجَّيْنَٰهُ وَأَهْلَهُۥ مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ",
+      "translation_en": "And We saved him and his family from the great affliction.",
+      "translation_bn": "আমি তাকে ও তার পরিবারবর্গকে এক মহাসংকট থেকে রক্ষা করেছিলাম।"
+    },
+    {
+      "number": 77,
+      "text": "وَجَعَلْنَا ذُرِّيَّتَهُۥ هُمُ ٱلْبَاقِينَ",
+      "translation_en": "And We made his descendants those remaining [on the earth]",
+      "translation_bn": "এবং তার বংশধরদেরকেই আমি অবশিষ্ট রেখেছিলাম।"
+    },
+    {
+      "number": 78,
+      "text": "وَتَرَكْنَا عَلَيْهِ فِى ٱلْءَاخِرِينَ",
+      "translation_en": "And left for him [favorable mention] among later generations:",
+      "translation_bn": "আমি তার জন্যে পরবর্তীদের মধ্যে এ বিষয় রেখে দিয়েছি যে,"
+    },
+    {
+      "number": 79,
+      "text": "سَلَٰمٌ عَلَىٰ نُوحٍ فِى ٱلْعَٰلَمِينَ",
+      "translation_en": "\"Peace upon Noah among the worlds.\"",
+      "translation_bn": "বিশ্ববাসীর মধ্যে নূহের প্রতি শান্তি বর্ষিত হোক।"
+    },
+    {
+      "number": 80,
+      "text": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "translation_en": "Indeed, We thus reward the doers of good.",
+      "translation_bn": "আমি এভাবেই সৎকর্ম পরায়নদেরকে পুরস্কৃত করে থাকি।"
+    },
+    {
+      "number": 81,
+      "text": "إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ",
+      "translation_en": "Indeed, he was of Our believing servants.",
+      "translation_bn": "সে ছিল আমার ঈমানদার বান্দাদের অন্যতম।"
+    },
+    {
+      "number": 82,
+      "text": "ثُمَّ أَغْرَقْنَا ٱلْءَاخَرِينَ",
+      "translation_en": "Then We drowned the disbelievers.",
+      "translation_bn": "অতঃপর আমি অপরাপর সবাইকে নিমজ্জত করেছিলাম।"
+    },
+    {
+      "number": 83,
+      "text": "وَإِنَّ مِن شِيعَتِهِۦ لَإِبْرَٰهِيمَ",
+      "translation_en": "And indeed, among his kind was Abraham,",
+      "translation_bn": "আর নূহ পন্থীদেরই একজন ছিল ইব্রাহীম।"
+    },
+    {
+      "number": 84,
+      "text": "إِذْ جَآءَ رَبَّهُۥ بِقَلْبٍ سَلِيمٍ",
+      "translation_en": "When he came to his Lord with a sound heart",
+      "translation_bn": "যখন সে তার পালনকর্তার নিকট সুষ্ঠু চিত্তে উপস্থিত হয়েছিল,"
+    },
+    {
+      "number": 85,
+      "text": "إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَاذَا تَعْبُدُونَ",
+      "translation_en": "[And] when he said to his father and his people, \"What do you worship?",
+      "translation_bn": "যখন সে তার পিতা ও সম্প্রদায়কে বলেছিলঃ তোমরা কিসের উপাসনা করছ?"
+    },
+    {
+      "number": 86,
+      "text": "أَئِفْكًا ءَالِهَةً دُونَ ٱللَّهِ تُرِيدُونَ",
+      "translation_en": "Is it falsehood [as] gods other than Allah you desire?",
+      "translation_bn": "তোমরা কি আল্লাহ ব্যতীত মিথ্যা উপাস্য কামনা করছ?"
+    },
+    {
+      "number": 87,
+      "text": "فَمَا ظَنُّكُم بِرَبِّ ٱلْعَٰلَمِينَ",
+      "translation_en": "Then what is your thought about the Lord of the worlds?\"",
+      "translation_bn": "বিশ্বজগতের পালনকর্তা সম্পর্কে তোমাদের ধারণা কি?"
+    },
+    {
+      "number": 88,
+      "text": "فَنَظَرَ نَظْرَةً فِى ٱلنُّجُومِ",
+      "translation_en": "And he cast a look at the stars",
+      "translation_bn": "অতঃপর সে একবার তারকাদের প্রতি লক্ষ্য করল।"
+    },
+    {
+      "number": 89,
+      "text": "فَقَالَ إِنِّى سَقِيمٌ",
+      "translation_en": "And said, \"Indeed, I am [about to be] ill.\"",
+      "translation_bn": "এবং বললঃ আমি পীড়িত।"
+    },
+    {
+      "number": 90,
+      "text": "فَتَوَلَّوْا۟ عَنْهُ مُدْبِرِينَ",
+      "translation_en": "So they turned away from him, departing.",
+      "translation_bn": "অতঃপর তারা তার প্রতি পিঠ ফিরিয়ে চলে গেল।"
+    },
+    {
+      "number": 91,
+      "text": "فَرَاغَ إِلَىٰٓ ءَالِهَتِهِمْ فَقَالَ أَلَا تَأْكُلُونَ",
+      "translation_en": "Then he turned to their gods and said, \"Do you not eat?",
+      "translation_bn": "অতঃপর সে তাদের দেবালয়ে, গিয়ে ঢুকল এবং বললঃ তোমরা খাচ্ছ না কেন?"
+    },
+    {
+      "number": 92,
+      "text": "مَا لَكُمْ لَا تَنطِقُونَ",
+      "translation_en": "What is [wrong] with you that you do not speak?\"",
+      "translation_bn": "তোমাদের কি হল যে, কথা বলছ না?"
+    },
+    {
+      "number": 93,
+      "text": "فَرَاغَ عَلَيْهِمْ ضَرْبًۢا بِٱلْيَمِينِ",
+      "translation_en": "And he turned upon them a blow with [his] right hand.",
+      "translation_bn": "অতঃপর সে প্রবল আঘাতে তাদের উপর ঝাঁপিয়ে পড়ল।"
+    },
+    {
+      "number": 94,
+      "text": "فَأَقْبَلُوٓا۟ إِلَيْهِ يَزِفُّونَ",
+      "translation_en": "Then the people came toward him, hastening.",
+      "translation_bn": "তখন লোকজন তার দিকে ছুটে এলো ভীত-সন্ত্রস্ত পদে।"
+    },
+    {
+      "number": 95,
+      "text": "قَالَ أَتَعْبُدُونَ مَا تَنْحِتُونَ",
+      "translation_en": "He said, \"Do you worship that which you [yourselves] carve,",
+      "translation_bn": "সে বললঃ তোমরা স্বহস্ত নির্মিত পাথরের পূজা কর কেন?"
+    },
+    {
+      "number": 96,
+      "text": "وَٱللَّهُ خَلَقَكُمْ وَمَا تَعْمَلُونَ",
+      "translation_en": "While Allah created you and that which you do?\"",
+      "translation_bn": "অথচ আল্লাহ তোমাদেরকে এবং তোমরা যা নির্মাণ করছ সবাইকে সৃষ্টি করেছেন।"
+    },
+    {
+      "number": 97,
+      "text": "قَالُوا۟ ٱبْنُوا۟ لَهُۥ بُنْيَٰنًا فَأَلْقُوهُ فِى ٱلْجَحِيمِ",
+      "translation_en": "They said, \"Construct for him a furnace and throw him into the burning fire.\"",
+      "translation_bn": "তারা বললঃ এর জন্যে একটি ভিত নির্মাণ কর এবং অতঃপর তাকে আগুনের স্তুপে নিক্ষেপ কর।"
+    },
+    {
+      "number": 98,
+      "text": "فَأَرَادُوا۟ بِهِۦ كَيْدًا فَجَعَلْنَٰهُمُ ٱلْأَسْفَلِينَ",
+      "translation_en": "And they intended for him a plan, but We made them the most debased.",
+      "translation_bn": "তারপর তারা তার বিরুদ্ধে মহা ষড়যন্ত্র আঁটতে চাইল, কিন্তু আমি তাদেরকেই পরাভূত করে দিলাম।"
+    },
+    {
+      "number": 99,
+      "text": "وَقَالَ إِنِّى ذَاهِبٌ إِلَىٰ رَبِّى سَيَهْدِينِ",
+      "translation_en": "And [then] he said, \"Indeed, I will go to [where I am ordered by] my Lord; He will guide me.",
+      "translation_bn": "সে বললঃ আমি আমার পালনকর্তার দিকে চললাম, তিনি আমাকে পথপ্রদর্শন করবেন।"
+    },
+    {
+      "number": 100,
+      "text": "رَبِّ هَبْ لِى مِنَ ٱلصَّٰلِحِينَ",
+      "translation_en": "My Lord, grant me [a child] from among the righteous.\"",
+      "translation_bn": "হে আমার পরওয়ারদেগার! আমাকে এক সৎপুত্র দান কর।"
+    },
+    {
+      "number": 101,
+      "text": "فَبَشَّرْنَٰهُ بِغُلَٰمٍ حَلِيمٍ",
+      "translation_en": "So We gave him good tidings of a forbearing boy.",
+      "translation_bn": "সুতরাং আমি তাকে এক সহনশীল পুত্রের সুসংবাদ দান করলাম।"
+    },
+    {
+      "number": 102,
+      "text": "فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ قَالَ يَٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّٰبِرِينَ",
+      "translation_en": "And when he reached with him [the age of] exertion, he said, \"O my son, indeed I have seen in a dream that I [must] sacrifice you, so see what you think.\" He said, \"O my father, do as you are commanded. You will find me, if Allah wills, of the steadfast.\"",
+      "translation_bn": "অতঃপর সে যখন পিতার সাথে চলাফেরা করার বয়সে উপনীত হল, তখন ইব্রাহীম তাকে বললঃ বৎস! আমি স্বপ্নে দেখিযে, তোমাকে যবেহ করছি; এখন তোমার অভিমত কি দেখ। সে বললঃ পিতাঃ! আপনাকে যা আদেশ করা হয়েছে, তাই করুন। আল্লাহ চাহে তো আপনি আমাকে সবরকারী পাবেন।"
+    },
+    {
+      "number": 103,
+      "text": "فَلَمَّآ أَسْلَمَا وَتَلَّهُۥ لِلْجَبِينِ",
+      "translation_en": "And when they had both submitted and he put him down upon his forehead,",
+      "translation_bn": "যখন পিতা-পুত্র উভয়েই আনুগত্য প্রকাশ করল এবং ইব্রাহীম তাকে যবেহ করার জন্যে শায়িত করল।"
+    },
+    {
+      "number": 104,
+      "text": "وَنَٰدَيْنَٰهُ أَن يَٰٓإِبْرَٰهِيمُ",
+      "translation_en": "We called to him, \"O Abraham,",
+      "translation_bn": "তখন আমি তাকে ডেকে বললামঃ হে ইব্রাহীম,"
+    },
+    {
+      "number": 105,
+      "text": "قَدْ صَدَّقْتَ ٱلرُّءْيَآ إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "translation_en": "You have fulfilled the vision.\" Indeed, We thus reward the doers of good.",
+      "translation_bn": "তুমি তো স্বপ্নকে সত্যে পরিণত করে দেখালে! আমি এভাবেই সৎকর্মীদেরকে প্রতিদান দিয়ে থাকি।"
+    },
+    {
+      "number": 106,
+      "text": "إِنَّ هَٰذَا لَهُوَ ٱلْبَلَٰٓؤُا۟ ٱلْمُبِينُ",
+      "translation_en": "Indeed, this was the clear trial.",
+      "translation_bn": "নিশ্চয় এটা এক সুস্পষ্ট পরীক্ষা।"
+    },
+    {
+      "number": 107,
+      "text": "وَفَدَيْنَٰهُ بِذِبْحٍ عَظِيمٍ",
+      "translation_en": "And We ransomed him with a great sacrifice,",
+      "translation_bn": "আমি তার পরিবর্তে দিলাম যবেহ করার জন্যে এক মহান জন্তু।"
+    },
+    {
+      "number": 108,
+      "text": "وَتَرَكْنَا عَلَيْهِ فِى ٱلْءَاخِرِينَ",
+      "translation_en": "And We left for him [favorable mention] among later generations:",
+      "translation_bn": "আমি তার জন্যে এ বিষয়টি পরবর্তীদের মধ্যে রেখে দিয়েছি যে,"
+    },
+    {
+      "number": 109,
+      "text": "سَلَٰمٌ عَلَىٰٓ إِبْرَٰهِيمَ",
+      "translation_en": "\"Peace upon Abraham.\"",
+      "translation_bn": "ইব্রাহীমের প্রতি সালাম বর্ষিত হোক।"
+    },
+    {
+      "number": 110,
+      "text": "كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "translation_en": "Indeed, We thus reward the doers of good.",
+      "translation_bn": "এমনিভাবে আমি সৎকর্মীদেরকে প্রতিদান দিয়ে থাকি।"
+    },
+    {
+      "number": 111,
+      "text": "إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ",
+      "translation_en": "Indeed, he was of Our believing servants.",
+      "translation_bn": "সে ছিল আমার বিশ্বাসী বান্দাদের একজন।"
+    },
+    {
+      "number": 112,
+      "text": "وَبَشَّرْنَٰهُ بِإِسْحَٰقَ نَبِيًّا مِّنَ ٱلصَّٰلِحِينَ",
+      "translation_en": "And We gave him good tidings of Isaac, a prophet from among the righteous.",
+      "translation_bn": "আমি তাকে সুসংবাদ দিয়েছি ইসহাকের, সে সৎকর্মীদের মধ্য থেকে একজন নবী।"
+    },
+    {
+      "number": 113,
+      "text": "وَبَٰرَكْنَا عَلَيْهِ وَعَلَىٰٓ إِسْحَٰقَ وَمِن ذُرِّيَّتِهِمَا مُحْسِنٌ وَظَالِمٌ لِّنَفْسِهِۦ مُبِينٌ",
+      "translation_en": "And We blessed him and Isaac. But among their descendants is the doer of good and the clearly unjust to himself.",
+      "translation_bn": "তাকে এবং ইসহাককে আমি বরকত দান করেছি। তাদের বংশধরদের মধ্যে কতক সৎকর্মী এবং কতক নিজেদের উপর স্পষ্ট জুলুমকারী।"
+    },
+    {
+      "number": 114,
+      "text": "وَلَقَدْ مَنَنَّا عَلَىٰ مُوسَىٰ وَهَٰرُونَ",
+      "translation_en": "And We did certainly confer favor upon Moses and Aaron.",
+      "translation_bn": "আমি অনুগ্রহ করেছিলাম মূসা ও হারুনের প্রতি।"
+    },
+    {
+      "number": 115,
+      "text": "وَنَجَّيْنَٰهُمَا وَقَوْمَهُمَا مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ",
+      "translation_en": "And We saved them and their people from the great affliction,",
+      "translation_bn": "তাদেরকে ও তাদের সম্প্রদায়কে উদ্ধার করেছি মহা সংকট থেকে।"
+    },
+    {
+      "number": 116,
+      "text": "وَنَصَرْنَٰهُمْ فَكَانُوا۟ هُمُ ٱلْغَٰلِبِينَ",
+      "translation_en": "And We supported them so it was they who overcame.",
+      "translation_bn": "আমি তাদেরকে সাহায্য করেছিলাম, ফলে তারাই ছিল বিজয়ী।"
+    },
+    {
+      "number": 117,
+      "text": "وَءَاتَيْنَٰهُمَا ٱلْكِتَٰبَ ٱلْمُسْتَبِينَ",
+      "translation_en": "And We gave them the explicit Scripture,",
+      "translation_bn": "আমি উভয়কে দিয়েছিলাম সুস্পষ্ট কিতাব।"
+    },
+    {
+      "number": 118,
+      "text": "وَهَدَيْنَٰهُمَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+      "translation_en": "And We guided them on the straight path.",
+      "translation_bn": "এবং তাদেরকে সরল পথ প্রদর্শন করেছিলাম।"
+    },
+    {
+      "number": 119,
+      "text": "وَتَرَكْنَا عَلَيْهِمَا فِى ٱلْءَاخِرِينَ",
+      "translation_en": "And We left for them [favorable mention] among later generations:",
+      "translation_bn": "আমি তাদের জন্যে পরবর্তীদের মধ্যে এ বিষয় রেখে দিয়েছি যে,"
+    },
+    {
+      "number": 120,
+      "text": "سَلَٰمٌ عَلَىٰ مُوسَىٰ وَهَٰرُونَ",
+      "translation_en": "\"Peace upon Moses and Aaron.\"",
+      "translation_bn": "মূসা ও হারুনের প্রতি সালাম বর্ষিত হোক।"
+    },
+    {
+      "number": 121,
+      "text": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "translation_en": "Indeed, We thus reward the doers of good.",
+      "translation_bn": "এভাবে আমি সৎকর্মীদেরকে প্রতিদান দিয়ে থাকি।"
+    },
+    {
+      "number": 122,
+      "text": "إِنَّهُمَا مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ",
+      "translation_en": "Indeed, they were of Our believing servants.",
+      "translation_bn": "তারা উভয়েই ছিল আমার বিশ্বাসী বান্দাদের অন্যতম।"
+    },
+    {
+      "number": 123,
+      "text": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+      "translation_en": "And indeed, Elias was from among the messengers,",
+      "translation_bn": "নিশ্চয়ই ইলিয়াস ছিল রসূল।"
+    },
+    {
+      "number": 124,
+      "text": "إِذْ قَالَ لِقَوْمِهِۦٓ أَلَا تَتَّقُونَ",
+      "translation_en": "When he said to his people, \"Will you not fear Allah?",
+      "translation_bn": "যখন সে তার সম্প্রদায়কে বললঃ তোমরা কি ভয় কর না ?"
+    },
+    {
+      "number": 125,
+      "text": "أَتَدْعُونَ بَعْلًا وَتَذَرُونَ أَحْسَنَ ٱلْخَٰلِقِينَ",
+      "translation_en": "Do you call upon Ba'l and leave the best of creators -",
+      "translation_bn": "তোমরা কি বা’আল দেবতার এবাদত করবে এবং সর্বোত্তম স্রষ্টাকে পরিত্যাগ করবে।"
+    },
+    {
+      "number": 126,
+      "text": "ٱللَّهَ رَبَّكُمْ وَرَبَّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ",
+      "translation_en": "Allah, your Lord and the Lord of your first forefathers?\"",
+      "translation_bn": "যিনি আল্লাহ তোমাদের পালনকর্তা এবং তোমাদের পূর্বপুরুষদের পালনকর্তা?"
+    },
+    {
+      "number": 127,
+      "text": "فَكَذَّبُوهُ فَإِنَّهُمْ لَمُحْضَرُونَ",
+      "translation_en": "And they denied him, so indeed, they will be brought [for punishment],",
+      "translation_bn": "অতঃপর তারা তাকে মিথ্যা প্রতিপন্ন করল। অতএব তারা অবশ্যই গ্রেফতার হয়ে আসবে।"
+    },
+    {
+      "number": 128,
+      "text": "إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ",
+      "translation_en": "Except the chosen servants of Allah.",
+      "translation_bn": "কিন্তু আল্লাহ তা’আলার খাঁটি বান্দাগণ নয়।"
+    },
+    {
+      "number": 129,
+      "text": "وَتَرَكْنَا عَلَيْهِ فِى ٱلْءَاخِرِينَ",
+      "translation_en": "And We left for him [favorable mention] among later generations:",
+      "translation_bn": "আমি তার জন্যে পরবর্তীদের মধ্যে এ বিষয়ে রেখে দিয়েছি যে,"
+    },
+    {
+      "number": 130,
+      "text": "سَلَٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+      "translation_en": "\"Peace upon Elias.\"",
+      "translation_bn": "ইলিয়াসের প্রতি সালাম বর্ষিত হোক!"
+    },
+    {
+      "number": 131,
+      "text": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "translation_en": "Indeed, We thus reward the doers of good.",
+      "translation_bn": "এভাবেই আমি সৎকর্মীদেরকে প্রতিদান দিয়ে থাকি।"
+    },
+    {
+      "number": 132,
+      "text": "إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ",
+      "translation_en": "Indeed, he was of Our believing servants.",
+      "translation_bn": "সে ছিল আমার বিশ্বাসী বান্দাদের অন্তর্ভূক্ত।"
+    },
+    {
+      "number": 133,
+      "text": "وَإِنَّ لُوطًا لَّمِنَ ٱلْمُرْسَلِينَ",
+      "translation_en": "And indeed, Lot was among the messengers.",
+      "translation_bn": "নিশ্চয় লূত ছিলেন রসূলগণের একজন।"
+    },
+    {
+      "number": 134,
+      "text": "إِذْ نَجَّيْنَٰهُ وَأَهْلَهُۥٓ أَجْمَعِينَ",
+      "translation_en": "[So mention] when We saved him and his family, all,",
+      "translation_bn": "যখন আমি তাকেও তার পরিবারের সবাইকে উদ্ধার করেছিলাম;"
+    },
+    {
+      "number": 135,
+      "text": "إِلَّا عَجُوزًا فِى ٱلْغَٰبِرِينَ",
+      "translation_en": "Except his wife among those who remained [with the evildoers].",
+      "translation_bn": "কিন্তু এক বৃদ্ধাকে ছাড়া; সে অন্যান্যদের সঙ্গে থেকে গিয়েছিল।"
+    },
+    {
+      "number": 136,
+      "text": "ثُمَّ دَمَّرْنَا ٱلْءَاخَرِينَ",
+      "translation_en": "Then We destroyed the others.",
+      "translation_bn": "অতঃপর অবশিষ্টদেরকে আমি সমূলে উৎপাটিত করেছিলাম।"
+    },
+    {
+      "number": 137,
+      "text": "وَإِنَّكُمْ لَتَمُرُّونَ عَلَيْهِم مُّصْبِحِينَ",
+      "translation_en": "And indeed, you pass by them in the morning",
+      "translation_bn": "তোমরা তোমাদের ধ্বংস স্তুপের উপর দিয়ে গমন কর ভোর বেলায়"
+    },
+    {
+      "number": 138,
+      "text": "وَبِٱلَّيْلِ أَفَلَا تَعْقِلُونَ",
+      "translation_en": "And at night. Then will you not use reason?",
+      "translation_bn": "এবং সন্ধ্যায়, তার পরেও কি তোমরা বোঝ না?"
+    },
+    {
+      "number": 139,
+      "text": "وَإِنَّ يُونُسَ لَمِنَ ٱلْمُرْسَلِينَ",
+      "translation_en": "And indeed, Jonah was among the messengers.",
+      "translation_bn": "আর ইউনুসও ছিলেন পয়গম্বরগণের একজন।"
+    },
+    {
+      "number": 140,
+      "text": "إِذْ أَبَقَ إِلَى ٱلْفُلْكِ ٱلْمَشْحُونِ",
+      "translation_en": "[Mention] when he ran away to the laden ship.",
+      "translation_bn": "যখন পালিয়ে তিনি বোঝাই নৌকায় গিয়ে পৌঁছেছিলেন।"
+    },
+    {
+      "number": 141,
+      "text": "فَسَاهَمَ فَكَانَ مِنَ ٱلْمُدْحَضِينَ",
+      "translation_en": "And he drew lots and was among the losers.",
+      "translation_bn": "অতঃপর লটারী (সুরতি) করালে তিনি দোষী সাব্যস্ত হলেন।"
+    },
+    {
+      "number": 142,
+      "text": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌ",
+      "translation_en": "Then the fish swallowed him, while he was blameworthy.",
+      "translation_bn": "অতঃপর একটি মাছ তাঁকে গিলে ফেলল, তখন তিনি অপরাধী গণ্য হয়েছিলেন।"
+    },
+    {
+      "number": 143,
+      "text": "فَلَوْلَآ أَنَّهُۥ كَانَ مِنَ ٱلْمُسَبِّحِينَ",
+      "translation_en": "And had he not been of those who exalt Allah,",
+      "translation_bn": "যদি তিনি আল্লাহর তসবীহ পাঠ না করতেন,"
+    },
+    {
+      "number": 144,
+      "text": "لَلَبِثَ فِى بَطْنِهِۦٓ إِلَىٰ يَوْمِ يُبْعَثُونَ",
+      "translation_en": "He would have remained inside its belly until the Day they are resurrected.",
+      "translation_bn": "তবে তাঁকে কেয়ামত দিবস পর্যন্ত মাছের পেটেই থাকতে হত।"
+    },
+    {
+      "number": 145,
+      "text": "فَنَبَذْنَٰهُ بِٱلْعَرَآءِ وَهُوَ سَقِيمٌ",
+      "translation_en": "But We threw him onto the open shore while he was ill.",
+      "translation_bn": "অতঃপর আমি তাঁকে এক বিস্তীর্ণ-বিজন প্রান্তরে নিক্ষেপ করলাম, তখন তিনি ছিলেন রুগ্ন।"
+    },
+    {
+      "number": 146,
+      "text": "وَأَنۢبَتْنَا عَلَيْهِ شَجَرَةً مِّن يَقْطِينٍ",
+      "translation_en": "And We caused to grow over him a gourd vine.",
+      "translation_bn": "আমি তাঁর উপর এক লতাবিশিষ্ট বৃক্ষ উদগত করলাম।"
+    },
+    {
+      "number": 147,
+      "text": "وَأَرْسَلْنَٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+      "translation_en": "And We sent him to [his people of] a hundred thousand or more.",
+      "translation_bn": "এবং তাঁকে, লক্ষ বা ততোধিক লোকের প্রতি প্রেরণ করলাম।"
+    },
+    {
+      "number": 148,
+      "text": "فَـَٔامَنُوا۟ فَمَتَّعْنَٰهُمْ إِلَىٰ حِينٍ",
+      "translation_en": "And they believed, so We gave them enjoyment [of life] for a time.",
+      "translation_bn": "তারা বিশ্বাস স্থাপন করল অতঃপর আমি তাদেরকে নির্ধারিত সময় পর্যন্ত জীবনোপভোগ করতে দিলাম।"
+    },
+    {
+      "number": 149,
+      "text": "فَٱسْتَفْتِهِمْ أَلِرَبِّكَ ٱلْبَنَاتُ وَلَهُمُ ٱلْبَنُونَ",
+      "translation_en": "So inquire of them, [O Muhammad], \"Does your Lord have daughters while they have sons?",
+      "translation_bn": "এবার তাদেরকে জিজ্ঞেস করুন, তোমার পালনকর্তার জন্যে কি কন্যা সন্তান রয়েছে এবং তাদের জন্যে কি পুত্র-সন্তান।"
+    },
+    {
+      "number": 150,
+      "text": "أَمْ خَلَقْنَا ٱلْمَلَٰٓئِكَةَ إِنَٰثًا وَهُمْ شَٰهِدُونَ",
+      "translation_en": "Or did We create the angels as females while they were witnesses?\"",
+      "translation_bn": "না কি আমি তাদের উপস্থিতিতে ফেরেশতাগণকে নারীরূপে সৃষ্টি করেছি?"
+    },
+    {
+      "number": 151,
+      "text": "أَلَآ إِنَّهُم مِّنْ إِفْكِهِمْ لَيَقُولُونَ",
+      "translation_en": "Unquestionably, it is out of their [invented] falsehood that they say,",
+      "translation_bn": "জেনো, তারা মনগড়া উক্তি করে যে,"
+    },
+    {
+      "number": 152,
+      "text": "وَلَدَ ٱللَّهُ وَإِنَّهُمْ لَكَٰذِبُونَ",
+      "translation_en": "\" Allah has begotten,\" and indeed, they are liars.",
+      "translation_bn": "আল্লাহ সন্তান জন্ম দিয়েছেন। নিশ্চয় তারা মিথ্যাবাদী।"
+    },
+    {
+      "number": 153,
+      "text": "أَصْطَفَى ٱلْبَنَاتِ عَلَى ٱلْبَنِينَ",
+      "translation_en": "Has He chosen daughters over sons?",
+      "translation_bn": "তিনি কি পুত্র-সন্তানের স্থলে কন্যা-সন্তান পছন্দ করেছেন?"
+    },
+    {
+      "number": 154,
+      "text": "مَا لَكُمْ كَيْفَ تَحْكُمُونَ",
+      "translation_en": "What is [wrong] with you? How do you make judgement?",
+      "translation_bn": "তোমাদের কি হল? তোমাদের এ কেমন সিন্ধান্ত?"
+    },
+    {
+      "number": 155,
+      "text": "أَفَلَا تَذَكَّرُونَ",
+      "translation_en": "Then will you not be reminded?",
+      "translation_bn": "তোমরা কি অনুধাবন কর না?"
+    },
+    {
+      "number": 156,
+      "text": "أَمْ لَكُمْ سُلْطَٰنٌ مُّبِينٌ",
+      "translation_en": "Or do you have a clear authority?",
+      "translation_bn": "না কি তোমাদের কাছে সুস্পষ্ট কোন দলীল রয়েছে?"
+    },
+    {
+      "number": 157,
+      "text": "فَأْتُوا۟ بِكِتَٰبِكُمْ إِن كُنتُمْ صَٰدِقِينَ",
+      "translation_en": "Then produce your scripture, if you should be truthful.",
+      "translation_bn": "তোমরা সত্যবাদী হলে তোমাদের কিতাব আন।"
+    },
+    {
+      "number": 158,
+      "text": "وَجَعَلُوا۟ بَيْنَهُۥ وَبَيْنَ ٱلْجِنَّةِ نَسَبًا وَلَقَدْ عَلِمَتِ ٱلْجِنَّةُ إِنَّهُمْ لَمُحْضَرُونَ",
+      "translation_en": "And they have claimed between Him and the jinn a lineage, but the jinn have already known that they [who made such claims] will be brought to [punishment].",
+      "translation_bn": "তারা আল্লাহ ও জ্বিনদের মধ্যে সম্পর্ক সাব্যস্ত করেছে, অথচ জ্বিনেরা জানে যে, তারা গ্রেফতার হয়ে আসবে।"
+    },
+    {
+      "number": 159,
+      "text": "سُبْحَٰنَ ٱللَّهِ عَمَّا يَصِفُونَ",
+      "translation_en": "Exalted is Allah above what they describe,",
+      "translation_bn": "তারা যা বলে তা থেকে আল্লাহ পবিত্র।"
+    },
+    {
+      "number": 160,
+      "text": "إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ",
+      "translation_en": "Except the chosen servants of Allah [who do not share in that sin].",
+      "translation_bn": "তবে যারা আল্লাহর নিষ্ঠাবান বান্দা, তারা গ্রেফতার হয়ে আসবে না।"
+    },
+    {
+      "number": 161,
+      "text": "فَإِنَّكُمْ وَمَا تَعْبُدُونَ",
+      "translation_en": "So indeed, you [disbelievers] and whatever you worship,",
+      "translation_bn": "অতএব তোমরা এবং তোমরা যাদের উপাসনা কর,"
+    },
+    {
+      "number": 162,
+      "text": "مَآ أَنتُمْ عَلَيْهِ بِفَٰتِنِينَ",
+      "translation_en": "You cannot tempt [anyone] away from Him",
+      "translation_bn": "তাদের কাউকেই তোমরা আল্লাহ সম্পর্কে বিভ্রান্ত করতে পারবে না।"
+    },
+    {
+      "number": 163,
+      "text": "إِلَّا مَنْ هُوَ صَالِ ٱلْجَحِيمِ",
+      "translation_en": "Except he who is to [enter and] burn in the Hellfire.",
+      "translation_bn": "শুধুমাত্র তাদের ছাড়া যারা জাহান্নামে পৌছাবে।"
+    },
+    {
+      "number": 164,
+      "text": "وَمَا مِنَّآ إِلَّا لَهُۥ مَقَامٌ مَّعْلُومٌ",
+      "translation_en": "[The angels say], \"There is not among us any except that he has a known position.",
+      "translation_bn": "আমাদের প্রত্যেকের জন্য রয়েছে নির্দিষ্ট স্থান।"
+    },
+    {
+      "number": 165,
+      "text": "وَإِنَّا لَنَحْنُ ٱلصَّآفُّونَ",
+      "translation_en": "And indeed, we are those who line up [for prayer].",
+      "translation_bn": "এবং আমরাই সারিবদ্ধভাবে দন্ডায়মান থাকি।"
+    },
+    {
+      "number": 166,
+      "text": "وَإِنَّا لَنَحْنُ ٱلْمُسَبِّحُونَ",
+      "translation_en": "And indeed, we are those who exalt Allah.\"",
+      "translation_bn": "এবং আমরাই আল্লাহর পবিত্রতা ঘোষণা করি।"
+    },
+    {
+      "number": 167,
+      "text": "وَإِن كَانُوا۟ لَيَقُولُونَ",
+      "translation_en": "And indeed, the disbelievers used to say,",
+      "translation_bn": "তারা তো বলতঃ"
+    },
+    {
+      "number": 168,
+      "text": "لَوْ أَنَّ عِندَنَا ذِكْرًا مِّنَ ٱلْأَوَّلِينَ",
+      "translation_en": "\"If we had a message from [those of] the former peoples,",
+      "translation_bn": "যদি আমাদের কাছে পূর্ববর্তীদের কোন উপদেশ থাকত,"
+    },
+    {
+      "number": 169,
+      "text": "لَكُنَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ",
+      "translation_en": "We would have been the chosen servants of Allah.\"",
+      "translation_bn": "তবে আমরা অবশ্যই আল্লাহর মনোনীত বান্দা হতাম।"
+    },
+    {
+      "number": 170,
+      "text": "فَكَفَرُوا۟ بِهِۦ فَسَوْفَ يَعْلَمُونَ",
+      "translation_en": "But they disbelieved in it, so they are going to know.",
+      "translation_bn": "বস্তুতঃ তারা এই কোরআনকে অস্বীকার করেছে। এখন শীঘ্রই তারা জেনে নিতে পারবে,"
+    },
+    {
+      "number": 171,
+      "text": "وَلَقَدْ سَبَقَتْ كَلِمَتُنَا لِعِبَادِنَا ٱلْمُرْسَلِينَ",
+      "translation_en": "And Our word has already preceded for Our servants, the messengers,",
+      "translation_bn": "আমার রাসূল ও বান্দাগণের ব্যাপারে আমার এই বাক্য সত্য হয়েছে যে,"
+    },
+    {
+      "number": 172,
+      "text": "إِنَّهُمْ لَهُمُ ٱلْمَنصُورُونَ",
+      "translation_en": "[That] indeed, they would be those given victory",
+      "translation_bn": "অবশ্যই তারা সাহায্য প্রাপ্ত হয়।"
+    },
+    {
+      "number": 173,
+      "text": "وَإِنَّ جُندَنَا لَهُمُ ٱلْغَٰلِبُونَ",
+      "translation_en": "And [that] indeed, Our soldiers will be those who overcome.",
+      "translation_bn": "আর আমার বাহিনীই হয় বিজয়ী।"
+    },
+    {
+      "number": 174,
+      "text": "فَتَوَلَّ عَنْهُمْ حَتَّىٰ حِينٍ",
+      "translation_en": "So, [O Muhammad], leave them for a time.",
+      "translation_bn": "অতএব আপনি কিছুকালের জন্যে তাদেরকে উপেক্ষা করুন।"
+    },
+    {
+      "number": 175,
+      "text": "وَأَبْصِرْهُمْ فَسَوْفَ يُبْصِرُونَ",
+      "translation_en": "And see [what will befall] them, for they are going to see.",
+      "translation_bn": "এবং তাদেরকে দেখতে থাকুন। শীঘ্রই তারাও এর পরিণাম দেখে নেবে।"
+    },
+    {
+      "number": 176,
+      "text": "أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ",
+      "translation_en": "Then for Our punishment are they impatient?",
+      "translation_bn": "আমার আযাব কি তারা দ্রুত কামনা করে?"
+    },
+    {
+      "number": 177,
+      "text": "فَإِذَا نَزَلَ بِسَاحَتِهِمْ فَسَآءَ صَبَاحُ ٱلْمُنذَرِينَ",
+      "translation_en": "But when it descends in their territory, then evil is the morning of those who were warned.",
+      "translation_bn": "অতঃপর যখন তাদের আঙ্গিনায় আযাব নাযিল হবে, তখন যাদেরকে সতর্ক করা হয়েছিল, তাদের সকাল বেলাটি হবে খুবই মন্দ।"
+    },
+    {
+      "number": 178,
+      "text": "وَتَوَلَّ عَنْهُمْ حَتَّىٰ حِينٍ",
+      "translation_en": "And leave them for a time.",
+      "translation_bn": "আপনি কিছুকালের জন্যে তাদেরকে উপেক্ষা করুন।"
+    },
+    {
+      "number": 179,
+      "text": "وَأَبْصِرْ فَسَوْفَ يُبْصِرُونَ",
+      "translation_en": "And see, for they are going to see.",
+      "translation_bn": "এবং দেখতে থাকুন, শীঘ্রই তারাও এর পরিণাম দেখে নেবে।"
+    },
+    {
+      "number": 180,
+      "text": "سُبْحَٰنَ رَبِّكَ رَبِّ ٱلْعِزَّةِ عَمَّا يَصِفُونَ",
+      "translation_en": "Exalted is your Lord, the Lord of might, above what they describe.",
+      "translation_bn": "পবিত্র আপনার পরওয়ারদেগারের সত্তা, তিনি সম্মানিত ও পবিত্র যা তারা বর্ণনা করে তা থেকে।"
+    },
+    {
+      "number": 181,
+      "text": "وَسَلَٰمٌ عَلَى ٱلْمُرْسَلِينَ",
+      "translation_en": "And peace upon the messengers.",
+      "translation_bn": "পয়গম্বরগণের প্রতি সালাম বর্ষিত হোক।"
+    },
+    {
+      "number": 182,
+      "text": "وَٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ",
+      "translation_en": "And praise to Allah, Lord of the worlds.",
+      "translation_bn": "সমস্ত প্রশংসা বিশ্বপালক আল্লাহর নিমিত্ত।"
+    }
+  ]
+}

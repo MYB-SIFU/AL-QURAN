@@ -1,0 +1,177 @@
+{
+  "name": "Al-Inshiqaq",
+  "name_translations": {
+    "ar": "الإنشقاق",
+    "en": "The Splitting Open"
+  },
+  "number_of_ayah": 25,
+  "number_of_surah": 84,
+  "place": "Mecca",
+  "recitations": [
+    {
+      "name": "Mishari Rashid al-`Afasy",
+      "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/084.mp3"
+    },
+    {
+      "name": "Abdur-Rahman as-Sudais",
+      "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/084.mp3"
+    },
+    {
+      "name": "Saad al-Ghamdi",
+      "audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/084.mp3"
+    }
+  ],
+  "type": "Makkiyah",
+  "verses": [
+    {
+      "number": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِذَا ٱلسَّمَآءُ ٱنشَقَّتْ",
+      "translation_en": "When the sky has split [open]",
+      "translation_bn": "যখন আকাশ বিদীর্ণ হবে,"
+    },
+    {
+      "number": 2,
+      "text": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
+      "translation_en": "And has responded to its Lord and was obligated [to do so]",
+      "translation_bn": "ও তার পালনকর্তার আদেশ পালন করবে এবং আকাশ এরই উপযুক্ত"
+    },
+    {
+      "number": 3,
+      "text": "وَإِذَا ٱلْأَرْضُ مُدَّتْ",
+      "translation_en": "And when the earth has been extended",
+      "translation_bn": "এবং যখন পৃথিবীকে সম্প্রসারিত করা হবে।"
+    },
+    {
+      "number": 4,
+      "text": "وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ",
+      "translation_en": "And has cast out that within it and relinquished [it]",
+      "translation_bn": "এবং পৃথিবী তার গর্ভস্থিত সবকিছু বাইরে নিক্ষেপ করবে ও শুন্যগর্ভ হয়ে যাবে।"
+    },
+    {
+      "number": 5,
+      "text": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
+      "translation_en": "And has responded to its Lord and was obligated [to do so] -",
+      "translation_bn": "এবং তার পালনকর্তার আদেশ পালন করবে এবং পৃথিবী এরই উপযুক্ত।"
+    },
+    {
+      "number": 6,
+      "text": "يَٰٓأَيُّهَا ٱلْإِنسَٰنُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا فَمُلَٰقِيهِ",
+      "translation_en": "O mankind, indeed you are laboring toward your Lord with [great] exertion and will meet it.",
+      "translation_bn": "হে মানুষ, তোমাকে তোমরা পালনকর্তা পর্যন্ত পৌছতে কষ্ট স্বীকার করতে হবে, অতঃপর তার সাক্ষাৎ ঘটবে।"
+    },
+    {
+      "number": 7,
+      "text": "فَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ بِيَمِينِهِۦ",
+      "translation_en": "Then as for he who is given his record in his right hand,",
+      "translation_bn": "যাকে তার আমলনামা ডান হাতে দেয়া হবে"
+    },
+    {
+      "number": 8,
+      "text": "فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا",
+      "translation_en": "He will be judged with an easy account",
+      "translation_bn": "তার হিসাব-নিকাশ সহজে হয়ে যাবে"
+    },
+    {
+      "number": 9,
+      "text": "وَيَنقَلِبُ إِلَىٰٓ أَهْلِهِۦ مَسْرُورًا",
+      "translation_en": "And return to his people in happiness.",
+      "translation_bn": "এবং সে তার পরিবার-পরিজনের কাছে হৃষ্টচিত্তে ফিরে যাবে"
+    },
+    {
+      "number": 10,
+      "text": "وَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ وَرَآءَ ظَهْرِهِۦ",
+      "translation_en": "But as for he who is given his record behind his back,",
+      "translation_bn": "এবং যাকে তার আমলনামা পিঠের পশ্চাদ্দিক থেকে দেয়া, হবে,"
+    },
+    {
+      "number": 11,
+      "text": "فَسَوْفَ يَدْعُوا۟ ثُبُورًا",
+      "translation_en": "He will cry out for destruction",
+      "translation_bn": "সে মৃত্যুকে আহবান করবে,"
+    },
+    {
+      "number": 12,
+      "text": "وَيَصْلَىٰ سَعِيرًا",
+      "translation_en": "And [enter to] burn in a Blaze.",
+      "translation_bn": "এবং জাহান্নামে প্রবেশ করবে।"
+    },
+    {
+      "number": 13,
+      "text": "إِنَّهُۥ كَانَ فِىٓ أَهْلِهِۦ مَسْرُورًا",
+      "translation_en": "Indeed, he had [once] been among his people in happiness;",
+      "translation_bn": "সে তার পরিবার-পরিজনের মধ্যে আনন্দিত ছিল।"
+    },
+    {
+      "number": 14,
+      "text": "إِنَّهُۥ ظَنَّ أَن لَّن يَحُورَ",
+      "translation_en": "Indeed, he had thought he would never return [to Allah].",
+      "translation_bn": "সে মনে করত যে, সে কখনও ফিরে যাবে না।"
+    },
+    {
+      "number": 15,
+      "text": "بَلَىٰٓ إِنَّ رَبَّهُۥ كَانَ بِهِۦ بَصِيرًا",
+      "translation_en": "But yes! Indeed, his Lord was ever of him, Seeing.",
+      "translation_bn": "কেন যাবে না, তার পালনকর্তা তো তাকে দেখতেন।"
+    },
+    {
+      "number": 16,
+      "text": "فَلَآ أُقْسِمُ بِٱلشَّفَقِ",
+      "translation_en": "So I swear by the twilight glow",
+      "translation_bn": "আমি শপথ করি সন্ধ্যাকালীন লাল আভার"
+    },
+    {
+      "number": 17,
+      "text": "وَٱلَّيْلِ وَمَا وَسَقَ",
+      "translation_en": "And [by] the night and what it envelops",
+      "translation_bn": "এবং রাত্রির, এবং তাতে যার সমাবেশ ঘটে"
+    },
+    {
+      "number": 18,
+      "text": "وَٱلْقَمَرِ إِذَا ٱتَّسَقَ",
+      "translation_en": "And [by] the moon when it becomes full",
+      "translation_bn": "এবং চন্দ্রের, যখন তা পূর্ণরূপ লাভ করে,"
+    },
+    {
+      "number": 19,
+      "text": "لَتَرْكَبُنَّ طَبَقًا عَن طَبَقٍ",
+      "translation_en": "[That] you will surely experience state after state.",
+      "translation_bn": "নিশ্চয় তোমরা এক সিঁড়ি থেকে আরেক সিঁড়িতে আরোহণ করবে।"
+    },
+    {
+      "number": 20,
+      "text": "فَمَا لَهُمْ لَا يُؤْمِنُونَ",
+      "translation_en": "So what is [the matter] with them [that] they do not believe,",
+      "translation_bn": "অতএব, তাদের কি হল যে, তারা ঈমান আনে না?"
+    },
+    {
+      "number": 21,
+      "text": "وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ",
+      "translation_en": "And when the Qur'an is recited to them, they do not prostrate [to Allah]?",
+      "translation_bn": "যখন তাদের কাছে কোরআন পাঠ করা হয়, তখন সেজদা করে না।"
+    },
+    {
+      "number": 22,
+      "text": "بَلِ ٱلَّذِينَ كَفَرُوا۟ يُكَذِّبُونَ",
+      "translation_en": "But those who have disbelieved deny,",
+      "translation_bn": "বরং কাফেররা এর প্রতি মিথ্যারোপ করে।"
+    },
+    {
+      "number": 23,
+      "text": "وَٱللَّهُ أَعْلَمُ بِمَا يُوعُونَ",
+      "translation_en": "And Allah is most knowing of what they keep within themselves.",
+      "translation_bn": "তারা যা সংরক্ষণ করে, আল্লাহ তা জানেন।"
+    },
+    {
+      "number": 24,
+      "text": "فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ",
+      "translation_en": "So give them tidings of a painful punishment,",
+      "translation_bn": "অতএব, তাদেরকে যন্ত্রণাদায়ক শাস্তির সুসংবাদ দিন।"
+    },
+    {
+      "number": 25,
+      "text": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍۭ",
+      "translation_en": "Except for those who believe and do righteous deeds. For them is a reward uninterrupted.",
+      "translation_bn": "কিন্তু যারা বিশ্বাস স্থাপন করে ও সৎকর্ম করে, তাদের জন্য রয়েছে অফুরন্ত পুরস্কার।"
+    }
+  ]
+}

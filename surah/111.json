@@ -1,0 +1,57 @@
+{
+  "name": "Al-Masad",
+  "name_translations": {
+    "ar": "المسد",
+    "en": "The Palm Fibre"
+  },
+  "number_of_ayah": 5,
+  "number_of_surah": 111,
+  "place": "Mecca",
+  "recitations": [
+    {
+      "name": "Mishari Rashid al-`Afasy",
+      "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/111.mp3"
+    },
+    {
+      "name": "Abdur-Rahman as-Sudais",
+      "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/111.mp3"
+    },
+    {
+      "name": "Saad al-Ghamdi",
+      "audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/111.mp3"
+    }
+  ],
+  "type": "Makkiyah",
+  "verses": [
+    {
+      "number": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ",
+      "translation_en": "May the hands of Abu Lahab be ruined, and ruined is he.",
+      "translation_bn": "আবু লাহাবের হস্তদ্বয় ধ্বংস হোক এবং ধ্বংস হোক সে নিজে,"
+    },
+    {
+      "number": 2,
+      "text": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+      "translation_en": "His wealth will not avail him or that which he gained.",
+      "translation_bn": "কোন কাজে আসেনি তার ধন-সম্পদ ও যা সে উপার্জন করেছে।"
+    },
+    {
+      "number": 3,
+      "text": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+      "translation_en": "He will [enter to] burn in a Fire of [blazing] flame",
+      "translation_bn": "সত্বরই সে প্রবেশ করবে লেলিহান অগ্নিতে"
+    },
+    {
+      "number": 4,
+      "text": "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ",
+      "translation_en": "And his wife [as well] - the carrier of firewood.",
+      "translation_bn": "এবং তার স্ত্রীও-যে ইন্ধন বহন করে,"
+    },
+    {
+      "number": 5,
+      "text": "فِى جِيدِهَا حَبْلٌ مِّن مَّسَدٍۭ",
+      "translation_en": "Around her neck is a rope of [twisted] fiber.",
+      "translation_bn": "তার গলদেশে খর্জুরের রশি নিয়ে।"
+    }
+  ]
+}

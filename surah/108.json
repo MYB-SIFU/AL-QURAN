@@ -1,0 +1,45 @@
+{
+  "name": "Al-Kauthar",
+  "name_translations": {
+    "ar": "الكوثر",
+    "en": "Abundance"
+  },
+  "number_of_ayah": 3,
+  "number_of_surah": 108,
+  "place": "Mecca",
+  "recitations": [
+    {
+      "name": "Mishari Rashid al-`Afasy",
+      "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/108.mp3"
+    },
+    {
+      "name": "Abdur-Rahman as-Sudais",
+      "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/108.mp3"
+    },
+    {
+      "name": "Saad al-Ghamdi",
+      "audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/108.mp3"
+    }
+  ],
+  "type": "Makkiyah",
+  "verses": [
+    {
+      "number": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِنَّآ أَعْطَيْنَٰكَ ٱلْكَوْثَرَ",
+      "translation_en": "Indeed, We have granted you, [O Muhammad], al-Kawthar.",
+      "translation_bn": "নিশ্চয় আমি আপনাকে কাওসার দান করেছি।"
+    },
+    {
+      "number": 2,
+      "text": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+      "translation_en": "So pray to your Lord and sacrifice [to Him alone].",
+      "translation_bn": "অতএব আপনার পালনকর্তার উদ্দেশ্যে নামায পড়ুন এবং কোরবানী করুন।"
+    },
+    {
+      "number": 3,
+      "text": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
+      "translation_en": "Indeed, your enemy is the one cut off.",
+      "translation_bn": "যে আপনার শত্রু, সেই তো লেজকাটা, নির্বংশ।"
+    }
+  ]
+}

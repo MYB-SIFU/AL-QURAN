@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AL QURAN — by SIFAT</title>
+  <meta name="description" content="Read the complete Holy Quran with Arabic text and English translation. Beautiful futuristic Islamic digital experience." />
+  <meta name="theme-color" content="#050810" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Inter:wght@300;400;500;600&family=Amiri:ital,wght@0,400;0,700;1,400&family=Hind+Siliguri:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/css/style.css" />
+</head>
+<body>
+
+  <!-- ── Animated canvas background ── -->
+  <canvas id="bgCanvas"></canvas>
+  <div class="bg-grid"></div>
+  <div class="bg-glow bg-glow-1"></div>
+  <div class="bg-glow bg-glow-2"></div>
+  <div class="bg-glow bg-glow-3"></div>
+
+  <!-- ── Scroll progress ── -->
+  <div class="scroll-progress" id="scrollProgress"></div>
+
+  <!-- ── Header ── -->
+  <header class="header" id="mainHeader">
+    <div class="header-inner">
+      <div class="logo" onclick="switchView('home')" style="cursor:pointer">
+        <span class="logo-arabic">القرآن</span>
+        <span class="logo-divider"></span>
+        <span class="logo-en">AL QURAN</span>
+      </div>
+      <nav class="nav">
+        <button class="nav-btn active" data-view="home">Home</button>
+        <button class="nav-btn" data-view="browse">Browse</button>
+        <button class="nav-btn" data-view="bookmarks">
+          Bookmarks
+          <span class="bookmark-count-badge" id="bookmarkBadge" style="display:none">0</span>
+        </button>
+        <button class="nav-btn" data-view="search">Search</button>
+        <button class="nav-btn" data-view="api">API</button>
+      </nav>
+      <div class="lang-toggle" id="langToggle" title="Translation language">
+        <button class="lang-btn" data-lang="en">EN</button>
+        <button class="lang-btn" data-lang="bn">বাং</button>
+        <button class="lang-btn active" data-lang="both">উভয়</button>
+      </div>
+      <button class="random-btn" id="randomBtn" title="Random Verse (R)">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 3h5v5M4 20L21 3M21 16v5h-5M15 15l6 6M4 4l5 5"/></svg>
+        <span>Random</span>
+      </button>
+    </div>
+  </header>
+
+  <!-- ── Main ── -->
+  <main class="main">
+
+    <!-- ══════════════════ HOME VIEW ══════════════════ -->
+    <section class="view active" id="view-home">
+      <div class="hero">
+        <div class="hero-ornament">
+          <svg viewBox="0 0 200 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <line x1="0" y1="20" x2="70" y2="20" stroke="url(#lg)" stroke-width="1"/>
+            <circle cx="100" cy="20" r="8" stroke="#D4AF37" stroke-width="1" fill="none" opacity=".5"/>
+            <circle cx="100" cy="20" r="3" fill="#D4AF37" opacity=".6"/>
+            <circle cx="80" cy="20" r="2" fill="#D4AF37" opacity=".3"/>
+            <circle cx="120" cy="20" r="2" fill="#D4AF37" opacity=".3"/>
+            <line x1="130" y1="20" x2="200" y2="20" stroke="url(#lg2)" stroke-width="1"/>
+            <defs>
+              <linearGradient id="lg" x1="0" y1="0" x2="70" y2="0"><stop offset="0" stop-color="#D4AF37" stop-opacity="0"/><stop offset="1" stop-color="#D4AF37" stop-opacity=".5"/></linearGradient>
+              <linearGradient id="lg2" x1="0" y1="0" x2="70" y2="0"><stop offset="0" stop-color="#D4AF37" stop-opacity=".5"/><stop offset="1" stop-color="#D4AF37" stop-opacity="0"/></linearGradient>
+            </defs>
+          </svg>
+        </div>
+
+        <div class="hero-bismillah">بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ</div>
+        <div class="hero-bismillah-en">In the name of Allah, the Most Gracious, the Most Merciful</div>
+        <h1 class="hero-title">THE HOLY <span class="gold">QURAN</span></h1>
+        <p class="hero-sub">114 Surahs · 6,236 Verses · Arabic &amp; English</p>
+
+        <div class="hero-actions">
+          <button class="btn-primary" onclick="switchView('browse')">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 6h16M4 12h16M4 18h7"/></svg>
+            Browse Surahs
+          </button>
+          <button class="btn-outline" onclick="switchView('search')">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+            Search Verses
+          </button>
+          <button class="btn-outline btn-outline-teal" id="continueReadingBtn" style="display:none" onclick="continueReading()">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 6v6l4 2"/><circle cx="12" cy="12" r="10"/></svg>
+            Continue Reading
+          </button>
+        </div>
+
+        <!-- Verse of the Day -->
+        <div class="daily-card" id="dailyCard">
+          <div class="daily-card-label">
+            <span class="label-dot"></span>
+            VERSE OF THE DAY
+            <span class="label-dot"></span>
+          </div>
+          <div class="daily-card-arabic" id="dailyArabic"><span class="skeleton-line" style="width:80%;height:2rem;display:inline-block;border-radius:8px"></span></div>
+          <div class="daily-card-en verse-en" id="dailyEn"><span class="skeleton-line" style="width:65%;height:1rem;display:inline-block;border-radius:4px"></span></div>
+          <div class="daily-card-bn verse-bn" id="dailyBn" style="display:none"></div>
+          <div class="daily-card-footer">
+            <div class="daily-card-ref" id="dailyRef"></div>
+            <button class="daily-card-btn" id="dailyReadBtn" style="display:none">Read Surah →</button>
+          </div>
+        </div>
+
+        <!-- Stats -->
+        <div class="stats-row">
+          <div class="stat" onclick="switchView('browse')">
+            <div class="stat-icon">📖</div>
+            <div class="stat-num">114</div>
+            <div class="stat-label">Surahs</div>
+          </div>
+          <div class="stat" onclick="switchView('search')">
+            <div class="stat-icon">✦</div>
+            <div class="stat-num">6,236</div>
+            <div class="stat-label">Verses</div>
+          </div>
+          <div class="stat">
+            <div class="stat-icon">🎧</div>
+            <div class="stat-num">3</div>
+            <div class="stat-label">Reciters</div>
+          </div>
+          <div class="stat" onclick="switchView('bookmarks')">
+            <div class="stat-icon">🔖</div>
+            <div class="stat-num" id="bookmarkStatNum">0</div>
+            <div class="stat-label">Bookmarks</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ══════════════════ BROWSE VIEW ══════════════════ -->
+    <section class="view" id="view-browse">
+      <div class="view-header">
+        <h2 class="view-title">Browse <span class="gold">Surahs</span></h2>
+        <div class="browse-controls">
+          <div class="browse-search-box">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+            <input type="text" id="browseFilter" placeholder="Search surah name..." autocomplete="off" />
+          </div>
+          <div class="filter-row">
+            <button class="filter-btn active" data-filter="all">All (114)</button>
+            <button class="filter-btn" data-filter="Makkiyah">Makkiyah</button>
+            <button class="filter-btn" data-filter="Madaniyah">Madaniyah</button>
+          </div>
+        </div>
+      </div>
+      <div class="surah-grid" id="surahGrid">
+        <div class="skeleton-grid">
+          ${Array.from({length:12}).map(()=>`<div class="skeleton-card"><div class="skeleton-line" style="width:40px;height:40px;border-radius:10px"></div><div style="flex:1"><div class="skeleton-line" style="width:60%;height:14px;margin-bottom:8px;border-radius:4px"></div><div class="skeleton-line" style="width:40%;height:10px;border-radius:4px"></div></div></div>`).join('')}
+        </div>
+      </div>
+    </section>
+
+    <!-- ══════════════════ READER VIEW ══════════════════ -->
+    <section class="view" id="view-reader">
+      <div class="reader-header">
+        <button class="back-btn" id="backBtn">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5M12 5l-7 7 7 7"/></svg>
+          Back
+        </button>
+        <div class="reader-title" id="readerTitle"></div>
+        <div class="reader-controls">
+          <button class="icon-btn" id="fontDecBtn" title="Decrease font size">A-</button>
+          <button class="icon-btn" id="fontIncBtn" title="Increase font size">A+</button>
+          <button class="icon-btn" id="bookmarkSurahBtn" title="Bookmark this surah">🔖</button>
+          <button class="reader-nav-btn" id="prevSurah">‹ Prev</button>
+          <button class="reader-nav-btn" id="nextSurah">Next ›</button>
+        </div>
+      </div>
+
+      <div class="surah-info-bar" id="surahInfoBar"></div>
+      <div class="recitation-bar" id="recitationBar"></div>
+
+      <div class="verses-container" id="versesContainer">
+        <div class="loading-spinner"><div class="spinner"></div></div>
+      </div>
+    </section>
+
+    <!-- ══════════════════ BOOKMARKS VIEW ══════════════════ -->
+    <section class="view" id="view-bookmarks">
+      <div class="view-header">
+        <h2 class="view-title">My <span class="gold">Bookmarks</span></h2>
+        <p class="view-subtitle">Verses and surahs you've saved</p>
+      </div>
+      <div id="bookmarksContent">
+        <div class="empty-state">
+          <div class="empty-icon">🔖</div>
+          <h3>No bookmarks yet</h3>
+          <p>While reading a surah, tap the bookmark icon on any verse to save it here.</p>
+          <button class="btn-primary" onclick="switchView('browse')" style="margin-top:20px">Browse Surahs</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- ══════════════════ SEARCH VIEW ══════════════════ -->
+    <section class="view" id="view-search">
+      <div class="view-header">
+        <h2 class="view-title">Search <span class="gold">Verses</span></h2>
+        <p class="view-subtitle">Search across all 6,236 verses by English meaning</p>
+      </div>
+      <div class="search-box-wrap">
+        <div class="search-box">
+          <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+          <input type="text" id="searchInput" placeholder="mercy, guidance, prayer, paradise..." autocomplete="off" />
+          <button class="search-clear" id="searchClear">✕</button>
+        </div>
+        <div class="search-suggestions">
+          <span class="search-suggestion" onclick="fillSearch('mercy')">mercy</span>
+          <span class="search-suggestion" onclick="fillSearch('guidance')">guidance</span>
+          <span class="search-suggestion" onclick="fillSearch('paradise')">paradise</span>
+          <span class="search-suggestion" onclick="fillSearch('prayer')">prayer</span>
+          <span class="search-suggestion" onclick="fillSearch('patience')">patience</span>
+          <span class="search-suggestion" onclick="fillSearch('grateful')">grateful</span>
+        </div>
+      </div>
+      <div class="search-results" id="searchResults">
+        <div class="search-placeholder">
+          <div class="search-placeholder-icon">﷽</div>
+          <p>Type a word or phrase above to search across all verses</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ══════════════════ API VIEW ══════════════════ -->
+    <section class="view" id="view-api">
+      <div class="view-header">
+        <h2 class="view-title">REST <span class="gold">API</span></h2>
+        <p class="view-subtitle">Free & open — no authentication required, no rate limits</p>
+      </div>
+
+      <!-- API Stats Bar -->
+      <div class="api-stats-bar">
+        <div class="api-stat-pill">
+          <span class="api-stat-icon">⚡</span>
+          <span class="api-stat-text"><strong>9</strong> Endpoints</span>
+        </div>
+        <div class="api-stat-pill">
+          <span class="api-stat-icon">📖</span>
+          <span class="api-stat-text"><strong>6,236</strong> Verses</span>
+        </div>
+        <div class="api-stat-pill">
+          <span class="api-stat-icon">🌐</span>
+          <span class="api-stat-text"><strong>3</strong> Languages</span>
+        </div>
+        <div class="api-stat-pill">
+          <span class="api-stat-icon">🔓</span>
+          <span class="api-stat-text">No Auth Required</span>
+        </div>
+        <div class="api-stat-pill">
+          <span class="api-stat-icon">📡</span>
+          <span class="api-stat-text">JSON Response</span>
+        </div>
+      </div>
+
+      <!-- Base URL -->
+      <div class="api-base-card">
+        <div class="api-base-label">BASE URL</div>
+        <div class="api-base-row">
+          <div class="api-base-url" id="apiBaseUrl"></div>
+          <button class="copy-btn-sm" onclick="copyApiBase()">⎘ Copy</button>
+        </div>
+        <div class="api-base-note">All responses follow the format: <code class="inline-code">&#123; "code": 200, "status": "...", "data": &#123;...&#125; &#125;</code></div>
+      </div>
+
+      <!-- 2-column layout -->
+      <div class="api-two-col">
+
+        <!-- Left: Endpoints -->
+        <div class="api-endpoints-col">
+          <div class="api-col-label">ENDPOINTS</div>
+          <div class="endpoint-list" id="endpointList"></div>
+        </div>
+
+        <!-- Right: Playground -->
+        <div class="api-playground-col">
+          <div class="api-col-label">LIVE PLAYGROUND</div>
+          <div class="api-playground-card">
+            <div class="api-playground-note">Click <strong style="color:var(--teal)">Try</strong> on any endpoint, or type a path below</div>
+            <div class="api-try-row">
+              <div class="api-try-input-wrap">
+                <span class="api-try-prefix" id="apiTryPrefix"></span>
+                <input type="text" id="apiTryInput" placeholder="/api/surah/1" />
+              </div>
+              <button class="btn-primary api-try-btn" onclick="tryApiCall()">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="width:13px;height:13px"><path d="M5 3l14 9-14 9V3z" fill="currentColor" stroke="none"/></svg>
+                Send
+              </button>
+            </div>
+            <div class="api-try-result" id="apiTryResult" style="display:none">
+              <div class="api-try-result-header">
+                <div style="display:flex;align-items:center;gap:10px">
+                  <span class="api-try-status" id="apiTryStatus"></span>
+                  <span class="api-try-time" id="apiTryTime"></span>
+                </div>
+                <button class="copy-btn-sm" onclick="copyApiResult()">⎘ Copy</button>
+              </div>
+              <pre class="api-try-pre" id="apiTryPre"></pre>
+            </div>
+          </div>
+
+          <!-- Response schema legend -->
+          <div class="api-schema-card">
+            <div class="api-col-label" style="margin-bottom:12px">RESPONSE SCHEMA</div>
+            <div class="schema-field"><span class="schema-key">code</span><span class="schema-type">number</span><span class="schema-desc">HTTP status code</span></div>
+            <div class="schema-field"><span class="schema-key">status</span><span class="schema-type">string</span><span class="schema-desc">Human-readable status</span></div>
+            <div class="schema-field"><span class="schema-key">data</span><span class="schema-type">object | array</span><span class="schema-desc">Payload — varies per endpoint</span></div>
+            <div class="schema-divider"></div>
+            <div class="api-col-label" style="margin-bottom:12px">LANGUAGES IN DATA</div>
+            <div class="schema-field"><span class="schema-key">text</span><span class="schema-type">string</span><span class="schema-desc">Arabic (عربي)</span></div>
+            <div class="schema-field"><span class="schema-key">translation_en</span><span class="schema-type">string</span><span class="schema-desc">English</span></div>
+            <div class="schema-field"><span class="schema-key">translation_bn</span><span class="schema-type">string</span><span class="schema-desc">বাংলা (Bengali)</span></div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ── Random verse modal ── -->
+  <div class="modal-overlay" id="modalOverlay">
+    <div class="modal">
+      <button class="modal-close" id="modalClose">✕</button>
+      <div class="modal-label"><span class="label-dot"></span> RANDOM VERSE <span class="label-dot"></span></div>
+      <div class="modal-arabic" id="modalArabic"></div>
+      <div class="modal-en verse-en" id="modalEn"></div>
+      <div class="modal-bn verse-bn" id="modalBn"></div>
+      <div class="modal-ref" id="modalRef"></div>
+      <div class="modal-actions">
+        <button class="btn-primary" id="modalReadBtn">Read Full Surah</button>
+        <button class="btn-outline" id="modalAnotherBtn">Another Verse</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Toast notifications ── -->
+  <div class="toast-container" id="toastContainer"></div>
+
+  <!-- ── Back to top ── -->
+  <button class="back-to-top" id="backToTop" title="Back to top">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 15l-6-6-6 6"/></svg>
+  </button>
+
+  <!-- ── Mobile Bottom Nav ── -->
+  <nav class="mobile-nav" id="mobileNav">
+    <div class="mobile-nav-inner">
+      <button class="mobile-nav-btn active" data-view="home">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+        <span>Home</span>
+      </button>
+      <button class="mobile-nav-btn" data-view="browse">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 6h16M4 12h16M4 18h7"/></svg>
+        <span>Browse</span>
+      </button>
+      <button class="mobile-nav-btn" data-view="search">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+        <span>Search</span>
+      </button>
+      <button class="mobile-nav-btn" data-view="bookmarks">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 21l-7-5-7 5V5a2 2 0 012-2h10a2 2 0 012 2z"/></svg>
+        <span>Saved</span>
+      </button>
+      <button class="mobile-nav-btn" data-view="api">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M8 9l3 3-3 3m5 0h3M5 20h14a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>
+        <span>API</span>
+      </button>
+    </div>
+  </nav>
+
+  <footer class="footer">
+    <div class="footer-inner">
+      <span class="footer-arabic">القرآن الكريم</span>
+      <span class="footer-sep">·</span>
+      <span>AL QURAN v1.0 by SIFAT</span>
+      <span class="footer-sep">·</span>
+      <a href="https://github.com/MYB-SIFU/AL-QURAN" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="currentColor" style="width:14px;height:14px;vertical-align:middle;margin-right:4px"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23A11.509 11.509 0 0112 5.803c1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576C20.566 21.797 24 17.3 24 12c0-6.627-5.373-12-12-12z"/></svg>
+        GitHub
+      </a>
+    </div>
+  </footer>
+
+  <script src="/js/app.js"></script>
+</body>
+</html>

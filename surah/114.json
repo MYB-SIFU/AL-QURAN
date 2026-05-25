@@ -1,0 +1,63 @@
+{
+  "name": "An-Nas",
+  "name_translations": {
+    "ar": "الناس",
+    "en": "Mankind"
+  },
+  "number_of_ayah": 6,
+  "number_of_surah": 114,
+  "place": "Mecca",
+  "recitations": [
+    {
+      "name": "Mishari Rashid al-`Afasy",
+      "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/114.mp3"
+    },
+    {
+      "name": "Abdur-Rahman as-Sudais",
+      "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/114.mp3"
+    },
+    {
+      "name": "Saad al-Ghamdi",
+      "audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/114.mp3"
+    }
+  ],
+  "type": "Makkiyah",
+  "verses": [
+    {
+      "number": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+      "translation_en": "Say, \"I seek refuge in the Lord of mankind,",
+      "translation_bn": "বলুন, আমি আশ্রয় গ্রহণ করিতেছি মানুষের পালনকর্তার,"
+    },
+    {
+      "number": 2,
+      "text": "مَلِكِ ٱلنَّاسِ",
+      "translation_en": "The Sovereign of mankind.",
+      "translation_bn": "মানুষের অধিপতির,"
+    },
+    {
+      "number": 3,
+      "text": "إِلَٰهِ ٱلنَّاسِ",
+      "translation_en": "The God of mankind,",
+      "translation_bn": "মানুষের মা’বুদের"
+    },
+    {
+      "number": 4,
+      "text": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+      "translation_en": "From the evil of the retreating whisperer -",
+      "translation_bn": "তার অনিষ্ট থেকে, যে কুমন্ত্রণা দেয় ও আত্নগোপন করে,"
+    },
+    {
+      "number": 5,
+      "text": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+      "translation_en": "Who whispers [evil] into the breasts of mankind -",
+      "translation_bn": "যে কুমন্ত্রণা দেয় মানুষের অন্তরে"
+    },
+    {
+      "number": 6,
+      "text": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+      "translation_en": "From among the jinn and mankind.\"",
+      "translation_bn": "জ্বিনের মধ্য থেকে অথবা মানুষের মধ্য থেকে।"
+    }
+  ]
+}

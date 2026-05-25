@@ -1,0 +1,75 @@
+{
+  "name": "Al-Takathur",
+  "name_translations": {
+    "ar": "التكاثر",
+    "en": "Competition"
+  },
+  "number_of_ayah": 8,
+  "number_of_surah": 102,
+  "place": "Mecca",
+  "recitations": [
+    {
+      "name": "Mishari Rashid al-`Afasy",
+      "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/102.mp3"
+    },
+    {
+      "name": "Abdur-Rahman as-Sudais",
+      "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/102.mp3"
+    },
+    {
+      "name": "Saad al-Ghamdi",
+      "audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/102.mp3"
+    }
+  ],
+  "type": "Makkiyah",
+  "verses": [
+    {
+      "number": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَلْهَىٰكُمُ ٱلتَّكَاثُرُ",
+      "translation_en": "Competition in [worldly] increase diverts you",
+      "translation_bn": "প্রাচুর্যের লালসা তোমাদেরকে গাফেল রাখে,"
+    },
+    {
+      "number": 2,
+      "text": "حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ",
+      "translation_en": "Until you visit the graveyards.",
+      "translation_bn": "এমনকি, তোমরা কবরস্থানে পৌছে যাও।"
+    },
+    {
+      "number": 3,
+      "text": "كَلَّا سَوْفَ تَعْلَمُونَ",
+      "translation_en": "No! You are going to know.",
+      "translation_bn": "এটা কখনও উচিত নয়। তোমরা সত্ত্বরই জেনে নেবে।"
+    },
+    {
+      "number": 4,
+      "text": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+      "translation_en": "Then no! You are going to know.",
+      "translation_bn": "অতঃপর এটা কখনও উচিত নয়। তোমরা সত্ত্বরই জেনে নেবে।"
+    },
+    {
+      "number": 5,
+      "text": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ",
+      "translation_en": "No! If you only knew with knowledge of certainty...",
+      "translation_bn": "কখনই নয়; যদি তোমরা নিশ্চিত জানতে।"
+    },
+    {
+      "number": 6,
+      "text": "لَتَرَوُنَّ ٱلْجَحِيمَ",
+      "translation_en": "You will surely see the Hellfire.",
+      "translation_bn": "তোমরা অবশ্যই জাহান্নাম দেখবে,"
+    },
+    {
+      "number": 7,
+      "text": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ",
+      "translation_en": "Then you will surely see it with the eye of certainty.",
+      "translation_bn": "অতঃপর তোমরা তা অবশ্যই দেখবে দিব্য প্রত্যয়ে,"
+    },
+    {
+      "number": 8,
+      "text": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ",
+      "translation_en": "Then you will surely be asked that Day about pleasure.",
+      "translation_bn": "এরপর অবশ্যই সেদিন তোমরা নেয়ামত সম্পর্কে জিজ্ঞাসিত হবে।"
+    }
+  ]
+}

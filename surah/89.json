@@ -1,0 +1,207 @@
+{
+  "name": "Al-Fajr",
+  "name_translations": {
+    "ar": "الفجر",
+    "en": "The Dawn"
+  },
+  "number_of_ayah": 30,
+  "number_of_surah": 89,
+  "place": "Mecca",
+  "recitations": [
+    {
+      "name": "Mishari Rashid al-`Afasy",
+      "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/089.mp3"
+    },
+    {
+      "name": "Abdur-Rahman as-Sudais",
+      "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/089.mp3"
+    },
+    {
+      "name": "Saad al-Ghamdi",
+      "audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/089.mp3"
+    }
+  ],
+  "type": "Makkiyah",
+  "verses": [
+    {
+      "number": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلْفَجْرِ",
+      "translation_en": "By the dawn",
+      "translation_bn": "শপথ ফজরের,"
+    },
+    {
+      "number": 2,
+      "text": "وَلَيَالٍ عَشْرٍ",
+      "translation_en": "And [by] ten nights",
+      "translation_bn": "শপথ দশ রাত্রির, শপথ তার,"
+    },
+    {
+      "number": 3,
+      "text": "وَٱلشَّفْعِ وَٱلْوَتْرِ",
+      "translation_en": "And [by] the even [number] and the odd",
+      "translation_bn": "যা জোড় ও যা বিজোড়"
+    },
+    {
+      "number": 4,
+      "text": "وَٱلَّيْلِ إِذَا يَسْرِ",
+      "translation_en": "And [by] the night when it passes,",
+      "translation_bn": "এবং শপথ রাত্রির যখন তা গত হতে থাকে"
+    },
+    {
+      "number": 5,
+      "text": "هَلْ فِى ذَٰلِكَ قَسَمٌ لِّذِى حِجْرٍ",
+      "translation_en": "Is there [not] in [all] that an oath [sufficient] for one of perception?",
+      "translation_bn": "এর মধ্যে আছে শপথ জ্ঞানী ব্যক্তির জন্যে।"
+    },
+    {
+      "number": 6,
+      "text": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ",
+      "translation_en": "Have you not considered how your Lord dealt with 'Aad -",
+      "translation_bn": "আপনি কি লক্ষ্য করেননি, আপনার পালনকর্তা আদ বংশের ইরাম গোত্রের সাথে কি আচরণ করেছিলেন,"
+    },
+    {
+      "number": 7,
+      "text": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+      "translation_en": "[With] Iram - who had lofty pillars,",
+      "translation_bn": "যাদের দৈহিক গঠন স্তম্ভ ও খুঁটির ন্যায় দীর্ঘ ছিল এবং"
+    },
+    {
+      "number": 8,
+      "text": "ٱلَّتِى لَمْ يُخْلَقْ مِثْلُهَا فِى ٱلْبِلَٰدِ",
+      "translation_en": "The likes of whom had never been created in the land?",
+      "translation_bn": "যাদের সমান শক্তি ও বলবীর্যে সারা বিশ্বের শহরসমূহে কোন লোক সৃজিত হয়নি"
+    },
+    {
+      "number": 9,
+      "text": "وَثَمُودَ ٱلَّذِينَ جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ",
+      "translation_en": "And [with] Thamud, who carved out the rocks in the valley?",
+      "translation_bn": "এবং সামুদ গোত্রের সাথে, যারা উপত্যকায় পাথর কেটে গৃহ নির্মাণ করেছিল।"
+    },
+    {
+      "number": 10,
+      "text": "وَفِرْعَوْنَ ذِى ٱلْأَوْتَادِ",
+      "translation_en": "And [with] Pharaoh, owner of the stakes? -",
+      "translation_bn": "এবং বহু কীলকের অধিপতি ফেরাউনের সাথে"
+    },
+    {
+      "number": 11,
+      "text": "ٱلَّذِينَ طَغَوْا۟ فِى ٱلْبِلَٰدِ",
+      "translation_en": "[All of] whom oppressed within the lands",
+      "translation_bn": "যারা দেশে সীমালঙ্ঘন করেছিল।"
+    },
+    {
+      "number": 12,
+      "text": "فَأَكْثَرُوا۟ فِيهَا ٱلْفَسَادَ",
+      "translation_en": "And increased therein the corruption.",
+      "translation_bn": "অতঃপর সেখানে বিস্তর অশান্তি সৃষ্টি করেছিল।"
+    },
+    {
+      "number": 13,
+      "text": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ",
+      "translation_en": "So your Lord poured upon them a scourge of punishment.",
+      "translation_bn": "অতঃপর আপনার পালনকর্তা তাদেরকে শাস্তির কশাঘাত করলেন।"
+    },
+    {
+      "number": 14,
+      "text": "إِنَّ رَبَّكَ لَبِٱلْمِرْصَادِ",
+      "translation_en": "Indeed, your Lord is in observation.",
+      "translation_bn": "নিশ্চয় আপনার পালকর্তা সতর্ক দৃষ্টি রাখেন।"
+    },
+    {
+      "number": 15,
+      "text": "فَأَمَّا ٱلْإِنسَٰنُ إِذَا مَا ٱبْتَلَىٰهُ رَبُّهُۥ فَأَكْرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّىٓ أَكْرَمَنِ",
+      "translation_en": "And as for man, when his Lord tries him and [thus] is generous to him and favors him, he says, \"My Lord has honored me.\"",
+      "translation_bn": "মানুষ এরূপ যে, যখন তার পালনকর্তা তাকে পরীক্ষা করেন, অতঃপর সম্মান ও অনুগ্রহ দান করেন, তখন বলে, আমার পালনকর্তা আমাকে সম্মান দান করেছেন।"
+    },
+    {
+      "number": 16,
+      "text": "وَأَمَّآ إِذَا مَا ٱبْتَلَىٰهُ فَقَدَرَ عَلَيْهِ رِزْقَهُۥ فَيَقُولُ رَبِّىٓ أَهَٰنَنِ",
+      "translation_en": "But when He tries him and restricts his provision, he says, \"My Lord has humiliated me.\"",
+      "translation_bn": "এবং যখন তাকে পরীক্ষা করেন, অতঃপর রিযিক সংকুচিত করে দেন, তখন বলেঃ আমার পালনকর্তা আমাকে হেয় করেছেন।"
+    },
+    {
+      "number": 17,
+      "text": "كَلَّا بَل لَّا تُكْرِمُونَ ٱلْيَتِيمَ",
+      "translation_en": "No! But you do not honor the orphan",
+      "translation_bn": "এটা অমূলক, বরং তোমরা এতীমকে সম্মান কর না।"
+    },
+    {
+      "number": 18,
+      "text": "وَلَا تَحَٰٓضُّونَ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+      "translation_en": "And you do not encourage one another to feed the poor.",
+      "translation_bn": "এবং মিসকীনকে অন্নদানে পরস্পরকে উৎসাহিত কর না।"
+    },
+    {
+      "number": 19,
+      "text": "وَتَأْكُلُونَ ٱلتُّرَاثَ أَكْلًا لَّمًّا",
+      "translation_en": "And you consume inheritance, devouring [it] altogether,",
+      "translation_bn": "এবং তোমরা মৃতের ত্যাজ্য সম্পত্তি সম্পূর্ণরূপে কুক্ষিগত করে ফেল"
+    },
+    {
+      "number": 20,
+      "text": "وَتُحِبُّونَ ٱلْمَالَ حُبًّا جَمًّا",
+      "translation_en": "And you love wealth with immense love.",
+      "translation_bn": "এবং তোমরা ধন-সম্পদকে প্রাণভরে ভালবাস।"
+    },
+    {
+      "number": 21,
+      "text": "كَلَّآ إِذَا دُكَّتِ ٱلْأَرْضُ دَكًّا دَكًّا",
+      "translation_en": "No! When the earth has been leveled - pounded and crushed -",
+      "translation_bn": "এটা অনুচিত। যখন পৃথিবী চুর্ণ-বিচুর্ণ হবে"
+    },
+    {
+      "number": 22,
+      "text": "وَجَآءَ رَبُّكَ وَٱلْمَلَكُ صَفًّا صَفًّا",
+      "translation_en": "And your Lord has come and the angels, rank upon rank,",
+      "translation_bn": "এবং আপনার পালনকর্তা ও ফেরেশতাগণ সারিবদ্ধভাবে উপস্থিত হবেন,"
+    },
+    {
+      "number": 23,
+      "text": "وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ يَوْمَئِذٍ يَتَذَكَّرُ ٱلْإِنسَٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ",
+      "translation_en": "And brought [within view], that Day, is Hell - that Day, man will remember, but what good to him will be the remembrance?",
+      "translation_bn": "এবং সেদিন জাহান্নামকে আনা হবে, সেদিন মানুষ স্মরণ করবে, কিন্তু এই স্মরণ তার কি কাজে আসবে?"
+    },
+    {
+      "number": 24,
+      "text": "يَقُولُ يَٰلَيْتَنِى قَدَّمْتُ لِحَيَاتِى",
+      "translation_en": "He will say, \"Oh, I wish I had sent ahead [some good] for my life.\"",
+      "translation_bn": "সে বলবেঃ হায়, এ জীবনের জন্যে আমি যদি কিছু অগ্রে প্রেরণ করতাম!"
+    },
+    {
+      "number": 25,
+      "text": "فَيَوْمَئِذٍ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٌ",
+      "translation_en": "So on that Day, none will punish [as severely] as His punishment,",
+      "translation_bn": "সেদিন তার শাস্তির মত শাস্তি কেউ দিবে না।"
+    },
+    {
+      "number": 26,
+      "text": "وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٌ",
+      "translation_en": "And none will bind [as severely] as His binding [of the evildoers].",
+      "translation_bn": "এবং তার বন্ধনের মত বন্ধন কেউ দিবে না।"
+    },
+    {
+      "number": 27,
+      "text": "يَٰٓأَيَّتُهَا ٱلنَّفْسُ ٱلْمُطْمَئِنَّةُ",
+      "translation_en": "[To the righteous it will be said], \"O reassured soul,",
+      "translation_bn": "হে প্রশান্ত মন,"
+    },
+    {
+      "number": 28,
+      "text": "ٱرْجِعِىٓ إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً",
+      "translation_en": "Return to your Lord, well-pleased and pleasing [to Him],",
+      "translation_bn": "তুমি তোমার পালনকর্তার নিকট ফিরে যাও সন্তুষ্ট ও সন্তোষভাজন হয়ে।"
+    },
+    {
+      "number": 29,
+      "text": "فَٱدْخُلِى فِى عِبَٰدِى",
+      "translation_en": "And enter among My [righteous] servants",
+      "translation_bn": "অতঃপর আমার বান্দাদের অন্তর্ভুক্ত হয়ে যাও।"
+    },
+    {
+      "number": 30,
+      "text": "وَٱدْخُلِى جَنَّتِى",
+      "translation_en": "And enter My Paradise.\"",
+      "translation_bn": "এবং আমার জান্নাতে প্রবেশ কর।"
+    }
+  ]
+}

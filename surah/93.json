@@ -1,0 +1,93 @@
+{
+  "name": "Ad-Duha",
+  "name_translations": {
+    "ar": "الضحى",
+    "en": "The Morning Hours"
+  },
+  "number_of_ayah": 11,
+  "number_of_surah": 93,
+  "place": "Mecca",
+  "recitations": [
+    {
+      "name": "Mishari Rashid al-`Afasy",
+      "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/093.mp3"
+    },
+    {
+      "name": "Abdur-Rahman as-Sudais",
+      "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/093.mp3"
+    },
+    {
+      "name": "Saad al-Ghamdi",
+      "audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/093.mp3"
+    }
+  ],
+  "type": "Makkiyah",
+  "verses": [
+    {
+      "number": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلضُّحَىٰ",
+      "translation_en": "By the morning brightness",
+      "translation_bn": "শপথ পূর্বাহ্নের,"
+    },
+    {
+      "number": 2,
+      "text": "وَٱلَّيْلِ إِذَا سَجَىٰ",
+      "translation_en": "And [by] the night when it covers with darkness,",
+      "translation_bn": "শপথ রাত্রির যখন তা গভীর হয়,"
+    },
+    {
+      "number": 3,
+      "text": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+      "translation_en": "Your Lord has not taken leave of you, [O Muhammad], nor has He detested [you].",
+      "translation_bn": "আপনার পালনকর্তা আপনাকে ত্যাগ করেনি এবং আপনার প্রতি বিরূপও হননি।"
+    },
+    {
+      "number": 4,
+      "text": "وَلَلْءَاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ",
+      "translation_en": "And the Hereafter is better for you than the first [life].",
+      "translation_bn": "আপনার জন্যে পরকাল ইহকাল অপেক্ষা শ্রেয়।"
+    },
+    {
+      "number": 5,
+      "text": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ",
+      "translation_en": "And your Lord is going to give you, and you will be satisfied.",
+      "translation_bn": "আপনার পালনকর্তা সত্বরই আপনাকে দান করবেন, অতঃপর আপনি সন্তুষ্ট হবেন।"
+    },
+    {
+      "number": 6,
+      "text": "أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ",
+      "translation_en": "Did He not find you an orphan and give [you] refuge?",
+      "translation_bn": "তিনি কি আপনাকে এতীমরূপে পাননি? অতঃপর তিনি আশ্রয় দিয়েছেন।"
+    },
+    {
+      "number": 7,
+      "text": "وَوَجَدَكَ ضَآلًّا فَهَدَىٰ",
+      "translation_en": "And He found you lost and guided [you],",
+      "translation_bn": "তিনি আপনাকে পেয়েছেন পথহারা, অতঃপর পথপ্রদর্শন করেছেন।"
+    },
+    {
+      "number": 8,
+      "text": "وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ",
+      "translation_en": "And He found you poor and made [you] self-sufficient.",
+      "translation_bn": "তিনি আপনাকে পেয়েছেন নিঃস্ব, অতঃপর অভাবমুক্ত করেছেন।"
+    },
+    {
+      "number": 9,
+      "text": "فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ",
+      "translation_en": "So as for the orphan, do not oppress [him].",
+      "translation_bn": "সুতরাং আপনি এতীমের প্রতি কঠোর হবেন না;"
+    },
+    {
+      "number": 10,
+      "text": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ",
+      "translation_en": "And as for the petitioner, do not repel [him].",
+      "translation_bn": "সওয়ালকারীকে ধমক দেবেন না।"
+    },
+    {
+      "number": 11,
+      "text": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+      "translation_en": "But as for the favor of your Lord, report [it].",
+      "translation_bn": "এবং আপনার পালনকর্তার নেয়ামতের কথা প্রকাশ করুন।"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "name": "Al-Qariah",
+  "name_translations": {
+    "ar": "القارعة",
+    "en": "The Calamity"
+  },
+  "number_of_ayah": 11,
+  "number_of_surah": 101,
+  "place": "Mecca",
+  "recitations": [
+    {
+      "name": "Mishari Rashid al-`Afasy",
+      "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/101.mp3"
+    },
+    {
+      "name": "Abdur-Rahman as-Sudais",
+      "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/101.mp3"
+    },
+    {
+      "name": "Saad al-Ghamdi",
+      "audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/101.mp3"
+    }
+  ],
+  "type": "Makkiyah",
+  "verses": [
+    {
+      "number": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱلْقَارِعَةُ",
+      "translation_en": "The Striking Calamity -",
+      "translation_bn": "করাঘাতকারী,"
+    },
+    {
+      "number": 2,
+      "text": "مَا ٱلْقَارِعَةُ",
+      "translation_en": "What is the Striking Calamity?",
+      "translation_bn": "করাঘাতকারী কি?"
+    },
+    {
+      "number": 3,
+      "text": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ",
+      "translation_en": "And what can make you know what is the Striking Calamity?",
+      "translation_bn": "করাঘাতকারী সম্পর্কে আপনি কি জানেন ?"
+    },
+    {
+      "number": 4,
+      "text": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+      "translation_en": "It is the Day when people will be like moths, dispersed,",
+      "translation_bn": "যেদিন মানুষ হবে বিক্ষিপ্ত পতংগের মত"
+    },
+    {
+      "number": 5,
+      "text": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+      "translation_en": "And the mountains will be like wool, fluffed up.",
+      "translation_bn": "এবং পর্বতমালা হবে ধুনিত রঙ্গীন পশমের মত।"
+    },
+    {
+      "number": 6,
+      "text": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+      "translation_en": "Then as for one whose scales are heavy [with good deeds],",
+      "translation_bn": "অতএব যার পাল্লা ভারী হবে,"
+    },
+    {
+      "number": 7,
+      "text": "فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ",
+      "translation_en": "He will be in a pleasant life.",
+      "translation_bn": "সে সুখীজীবন যাপন করবে।"
+    },
+    {
+      "number": 8,
+      "text": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+      "translation_en": "But as for one whose scales are light,",
+      "translation_bn": "আর যার পাল্লা হালকা হবে,"
+    },
+    {
+      "number": 9,
+      "text": "فَأُمُّهُۥ هَاوِيَةٌ",
+      "translation_en": "His refuge will be an abyss.",
+      "translation_bn": "তার ঠিকানা হবে হাবিয়া।"
+    },
+    {
+      "number": 10,
+      "text": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+      "translation_en": "And what can make you know what that is?",
+      "translation_bn": "আপনি জানেন তা কি?"
+    },
+    {
+      "number": 11,
+      "text": "نَارٌ حَامِيَةٌۢ",
+      "translation_en": "It is a Fire, intensely hot.",
+      "translation_bn": "প্রজ্জ্বলিত অগ্নি!"
+    }
+  ]
+}

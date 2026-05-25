@@ -1,0 +1,159 @@
+{
+  "name": "Al-Buruj",
+  "name_translations": {
+    "ar": "البروج",
+    "en": "The Constellations"
+  },
+  "number_of_ayah": 22,
+  "number_of_surah": 85,
+  "place": "Mecca",
+  "recitations": [
+    {
+      "name": "Mishari Rashid al-`Afasy",
+      "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/085.mp3"
+    },
+    {
+      "name": "Abdur-Rahman as-Sudais",
+      "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/085.mp3"
+    },
+    {
+      "name": "Saad al-Ghamdi",
+      "audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/085.mp3"
+    }
+  ],
+  "type": "Makkiyah",
+  "verses": [
+    {
+      "number": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلسَّمَآءِ ذَاتِ ٱلْبُرُوجِ",
+      "translation_en": "By the sky containing great stars",
+      "translation_bn": "শপথ গ্রহ-নক্ষত্র শোভিত আকাশের,"
+    },
+    {
+      "number": 2,
+      "text": "وَٱلْيَوْمِ ٱلْمَوْعُودِ",
+      "translation_en": "And [by] the promised Day",
+      "translation_bn": "এবং প্রতিশ্রুত দিবসের,"
+    },
+    {
+      "number": 3,
+      "text": "وَشَاهِدٍ وَمَشْهُودٍ",
+      "translation_en": "And [by] the witness and what is witnessed,",
+      "translation_bn": "এবং সেই দিবসের, যে উপস্থিত হয় ও যাতে উপস্থিত হয়"
+    },
+    {
+      "number": 4,
+      "text": "قُتِلَ أَصْحَٰبُ ٱلْأُخْدُودِ",
+      "translation_en": "Cursed were the companions of the trench",
+      "translation_bn": "অভিশপ্ত হয়েছে গর্ত ওয়ালারা অর্থাৎ,"
+    },
+    {
+      "number": 5,
+      "text": "ٱلنَّارِ ذَاتِ ٱلْوَقُودِ",
+      "translation_en": "[Containing] the fire full of fuel,",
+      "translation_bn": "অনেক ইন্ধনের অগ্নিসংযোগকারীরা;"
+    },
+    {
+      "number": 6,
+      "text": "إِذْ هُمْ عَلَيْهَا قُعُودٌ",
+      "translation_en": "When they were sitting near it",
+      "translation_bn": "যখন তারা তার কিনারায় বসেছিল।"
+    },
+    {
+      "number": 7,
+      "text": "وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِٱلْمُؤْمِنِينَ شُهُودٌ",
+      "translation_en": "And they, to what they were doing against the believers, were witnesses.",
+      "translation_bn": "এবং তারা বিশ্বাসীদের সাথে যা করেছিল, তা নিরীক্ষণ করছিল।"
+    },
+    {
+      "number": 8,
+      "text": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+      "translation_en": "And they resented them not except because they believed in Allah, the Exalted in Might, the Praiseworthy,",
+      "translation_bn": "তারা তাদেরকে শাস্তি দিয়েছিল শুধু এ কারণে যে, তারা প্রশংসিত, পরাক্রান্ত আল্লাহর প্রতি বিশ্বাস স্থাপন করেছিল,"
+    },
+    {
+      "number": 9,
+      "text": "ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ",
+      "translation_en": "To whom belongs the dominion of the heavens and the earth. And Allah, over all things, is Witness.",
+      "translation_bn": "যিনি নভোমন্ডল ও ভূমন্ডলের ক্ষমতার মালিক, আল্লাহর সামনে রয়েছে সবকিছু।"
+    },
+    {
+      "number": 10,
+      "text": "إِنَّ ٱلَّذِينَ فَتَنُوا۟ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ ثُمَّ لَمْ يَتُوبُوا۟ فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ ٱلْحَرِيقِ",
+      "translation_en": "Indeed, those who have tortured the believing men and believing women and then have not repented will have the punishment of Hell, and they will have the punishment of the Burning Fire.",
+      "translation_bn": "যারা মুমিন পুরুষ ও নারীকে নিপীড়ন করেছে, অতঃপর তওবা করেনি, তাদের জন্যে আছে জাহান্নামের শাস্তি, আর আছে দহন যন্ত্রণা,"
+    },
+    {
+      "number": 11,
+      "text": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَهُمْ جَنَّٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ذَٰلِكَ ٱلْفَوْزُ ٱلْكَبِيرُ",
+      "translation_en": "Indeed, those who have believed and done righteous deeds will have gardens beneath which rivers flow. That is the great attainment.",
+      "translation_bn": "যারা ঈমান আনে ও সৎকর্ম করে তাদের জন্যে আছে জান্নাত, যার তলদেশে প্রবাহিত হয় নির্ঝরিণীসমূহ। এটাই মহাসাফল্য।"
+    },
+    {
+      "number": 12,
+      "text": "إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ",
+      "translation_en": "Indeed, the vengeance of your Lord is severe.",
+      "translation_bn": "নিশ্চয় তোমার পালনকর্তার পাকড়াও অত্যন্ত কঠিন।"
+    },
+    {
+      "number": 13,
+      "text": "إِنَّهُۥ هُوَ يُبْدِئُ وَيُعِيدُ",
+      "translation_en": "Indeed, it is He who originates [creation] and repeats.",
+      "translation_bn": "তিনিই প্রথমবার অস্তিত্ব দান করেন এবং পুনরায় জীবিত করেন।"
+    },
+    {
+      "number": 14,
+      "text": "وَهُوَ ٱلْغَفُورُ ٱلْوَدُودُ",
+      "translation_en": "And He is the Forgiving, the Affectionate,",
+      "translation_bn": "তিনি ক্ষমাশীল, প্রেমময়;"
+    },
+    {
+      "number": 15,
+      "text": "ذُو ٱلْعَرْشِ ٱلْمَجِيدُ",
+      "translation_en": "Honorable Owner of the Throne,",
+      "translation_bn": "মহান আরশের অধিকারী।"
+    },
+    {
+      "number": 16,
+      "text": "فَعَّالٌ لِّمَا يُرِيدُ",
+      "translation_en": "Effecter of what He intends.",
+      "translation_bn": "তিনি যা চান, তাই করেন।"
+    },
+    {
+      "number": 17,
+      "text": "هَلْ أَتَىٰكَ حَدِيثُ ٱلْجُنُودِ",
+      "translation_en": "Has there reached you the story of the soldiers -",
+      "translation_bn": "আপনার কাছে সৈন্যবাহিনীর ইতিবৃত্ত পৌছেছে কি?"
+    },
+    {
+      "number": 18,
+      "text": "فِرْعَوْنَ وَثَمُودَ",
+      "translation_en": "[Those of] Pharaoh and Thamud?",
+      "translation_bn": "ফেরাউনের এবং সামুদের?"
+    },
+    {
+      "number": 19,
+      "text": "بَلِ ٱلَّذِينَ كَفَرُوا۟ فِى تَكْذِيبٍ",
+      "translation_en": "But they who disbelieve are in [persistent] denial,",
+      "translation_bn": "বরং যারা কাফের, তারা মিথ্যারোপে রত আছে।"
+    },
+    {
+      "number": 20,
+      "text": "وَٱللَّهُ مِن وَرَآئِهِم مُّحِيطٌۢ",
+      "translation_en": "While Allah encompasses them from behind.",
+      "translation_bn": "আল্লাহ তাদেরকে চতুর্দিক থেকে পরিবেষ্টন করে রেখেছেন।"
+    },
+    {
+      "number": 21,
+      "text": "بَلْ هُوَ قُرْءَانٌ مَّجِيدٌ",
+      "translation_en": "But this is an honored Qur'an",
+      "translation_bn": "বরং এটা মহান কোরআন,"
+    },
+    {
+      "number": 22,
+      "text": "فِى لَوْحٍ مَّحْفُوظٍۭ",
+      "translation_en": "[Inscribed] in a Preserved Slate.",
+      "translation_bn": "লওহে মাহফুযে লিপিবদ্ধ।"
+    }
+  ]
+}
