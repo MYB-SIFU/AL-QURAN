@@ -1,5 +1,5 @@
 /* ═══════════════════════════════════════════════════════════
-   AL QURAN — Advanced App v2
+   AL QURAN 
    Author: SIFAT
    ═══════════════════════════════════════════════════════════ */
 
@@ -66,7 +66,7 @@ function setLang(lang) {
   document.querySelectorAll('.lang-btn').forEach(b => {
     b.classList.toggle('active', b.dataset.lang === lang);
   });
-  // Update daily card Bengali visibility
+  
   const bnEl = document.getElementById('dailyBn');
   if (bnEl) bnEl.style.display = '';
 }
