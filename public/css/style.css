@@ -1,7 +1,6 @@
-/* ═══════════════════════════════════════════════════════════
-   AL QURAN — Advanced Futuristic Islamic UI v2
-   Author: SIFAT
-   ═══════════════════════════════════════════════════════════ */
+/* ════════════════
+         Author: SIFAT
+   ═════════════════ */
 
 :root {
   --bg:            #050810;
@@ -53,9 +52,9 @@ body {
 ::-webkit-scrollbar-thumb { background: rgba(212,175,55,0.3); border-radius: 3px; }
 ::-webkit-scrollbar-thumb:hover { background: rgba(212,175,55,0.55); }
 
-/* ════════════════════════════════════
-   BACKGROUND
-════════════════════════════════════ */
+/* ═════════════════
+         BACKGROUND
+══════════════════ */
 #bgCanvas {
   position: fixed; inset: 0; z-index: 0;
   pointer-events: none;
